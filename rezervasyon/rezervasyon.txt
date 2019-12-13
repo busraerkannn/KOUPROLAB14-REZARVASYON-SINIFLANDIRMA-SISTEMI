@@ -1,0 +1,707 @@
+userid,placeid,datetime,lat,lon,city,category
+fred-wilson,tocqueville-new-york,2010-10-22T23:44:29,40.7363,-73.9922,New York,Food:American
+fred-wilson,wesleyan-university-usdan-university-center-middle,2010-10-23T17:00:24,41.556974,-72.657571,Middletown,College & Education:Student Center
+fred-wilson,javapalooza-middletown,2010-10-23T20:30:45,41.5588525,-72.6486184,Middletown,Food:Coffee Shop
+fred-wilson,giorgione-new-york,2010-10-24T00:22:49,40.726144,-74.008348,New York,Food:Italian
+fred-wilson,chelsea-piers-sports-center-new-york,2010-08-10T10:54:51,40.7469,-74.0082,New York,Parks & Outdoors:Skating Rink
+fred-wilson,maialino-new-york,2010-08-10T13:11:35,40.738546,-73.985772,New York,Food:Italian
+fred-wilson,joseph-leonard-new-york,2010-08-10T21:57:02,40.7336653479,-74.0015459061,New York,Food:American
+fred-wilson,hudson-river-park-new-york,2010-08-11T10:30:09,40.7316816503,-74.0107727051,New York,Parks & Outdoors:Other - Parks & Outdoor
+fred-wilson,punch-new-york,2010-08-11T17:41:08,40.7397,-73.99,New York,Food:American
+fred-wilson,barbuto-new-york,2010-08-11T22:34:45,40.7378,-74.0082,New York,Food:Italian
+fred-wilson,the-coffee-shop-new-york,2010-08-12T12:04:15,40.7365179,-73.991199,New York,Food:Coffee Shop
+fred-wilson,buzzfeed-new-york,2010-08-12T23:32:00,40.723769,-73.999816,New York,Home / Work / Other:Corporate / Office:Tech Startup
+fred-wilson,kamadeva-yoga,2010-08-13T13:22:42,40.964479,-72.187612,NULL,Home / Work / Other:Gym / Fitness:Yoga Studio
+fred-wilson,marys-marvelous-amagansett,2010-08-13T13:29:51,40.9753,-72.1413,Amagansett,Food:Bakery
+fred-wilson,jacks-coffee-amagansett,2010-08-13T13:50:57,40.974401,-72.141917,Amagansett,Food:Café
+fred-wilson,la-fondita-amagansett,2010-08-13T22:22:32,40.9769768,-72.1260539,Amagansett,Food:Tacos
+fred-wilson,jacks-coffee-amagansett,2010-08-14T11:37:53,40.974401,-72.141917,Amagansett,Food:Café
+fred-wilson,cirillos-supermarket-amagansett,2010-08-14T15:01:41,40.977089,-72.128038,Amagansett,Food:Other - Food
+fred-wilson,hampton-market-place-east-hampton,2010-08-14T15:22:19,40.963737,-72.195271,East Hampton,Food:Deli / Bodega
+fred-wilson,amagansett-hardware,2010-08-14T17:47:58,40.974322,-72.142344,NULL,Shops:Hardware
+fred-wilson,amagansett-wine-and-spirits-amagansett,2010-08-14T17:59:24,40.9754,-72.1416,Amagansett,Shops:Food & Drink:Wine Shop
+fred-wilson,prada-new-york,2010-09-06T19:19:46,40.724283,-73.997812,New York,Shops:Apparel
+fred-wilson,john-varvatos-new-york,2010-09-06T20:09:27,40.723628,-74.000226,New York,Shops:Apparel
+fred-wilson,joseph-leonard-new-york,2010-09-06T22:55:50,40.7336653479,-74.0015459061,New York,Food:American
+fred-wilson,chelsea-piers-sports-center-new-york,2010-09-07T10:55:28,40.7469,-74.0082,New York,Parks & Outdoors:Skating Rink
+fred-wilson,maialino-new-york,2010-09-07T13:03:36,40.738546,-73.985772,New York,Food:Italian
+fred-wilson,15-east-new-york,2010-09-17T17:21:02,40.7363,-73.9922,New York,Food:Japanese
+fred-wilson,culture-espresso-bar-new-york,2010-09-17T19:00:18,40.7521,-73.9855,New York,Food:Coffee Shop
+fred-wilson,ma-peche-new-york,2010-09-17T23:16:37,40.7627651,-73.9755462,New York,Food:Asian
+fred-wilson,murrays-bagels-new-york,2010-09-18T12:08:36,40.7363,-73.9971,New York,Food:Sandwiches
+fred-wilson,city-cinemas-village-east-new-york,2010-09-18T23:07:43,40.730916,-73.9861102,New York,Arts & Entertainment:Movie Theater:Cineplex
+fred-wilson,zampa-new-york,2010-09-19T02:01:20,40.739131,-74.003625,New York,Nightlife:Wine Bar
+fred-wilson,jacks-coffee-new-york,2010-09-19T12:14:05,40.7345781,-74.0006365,New York,Food:Coffee Shop
+fred-wilson,murrays-bagels-new-york,2010-09-19T12:30:53,40.7363,-73.9971,New York,Food:Sandwiches
+fred-wilson,the-shala-new-york,2010-09-19T16:07:10,40.733075,-73.991478,New York,Home / Work / Other:Gym / Fitness:Yoga Studio
+fred-wilson,pie-new-york,2010-09-19T16:14:15,40.7329517,-73.9900104,New York,Food:Pizza
+fred-wilson,best-buy-new-york,2010-09-19T16:33:14,40.734421,-73.99012,New York,Shops:Video Games
+fred-wilson,john-varvatos-new-york,2010-09-19T16:42:56,40.723628,-74.000226,New York,Shops:Apparel
+ben-parr,bandera-brentwood-los-angeles,2010-08-22T04:34:54,34.0494,-118.461,Los Angeles,Food:American
+ben-parr,the-w-hotel-los-angeles-westwood-los-angeles,2010-08-22T06:19:56,34.063201,-118.441029,Los Angeles,Travel:Hotel
+ben-parr,coral-tree-cafe-los-angeles,2010-08-22T17:31:46,34.054301,-118.463776,Los Angeles,Food:Coffee Shop
+ben-parr,the-getty-center-los-angeles,2010-08-22T21:02:35,34.0784871822,-118.474674225,Los Angeles,Arts & Entertainment:Museum
+ben-parr,starbucks-buttonwillow,2010-08-23T22:43:24,35.4003234949,-119.397386312,Buttonwillow,Food:Coffee Shop
+ben-parr,chipotle-mountain-view,2010-08-24T03:50:58,37.421793161,-122.096589804,Mountain View,Food:Mexican
+ben-parr,indinero,2010-08-24T05:39:53,37.398365,-122.08278,NULL,Home / Work / Other:Corporate / Office:Coworking Space
+ben-parr,y-combinator-mountain-view,2010-08-24T21:22:09,37.3867650397,-122.067975998,Mountain View,Home / Work / Other:Corporate / Office:Tech Startup
+ben-parr,google-sf-office-san-francisco,2010-08-25T18:23:59,37.789709298,-122.390398979,San Francisco,Home / Work / Other:Corporate / Office
+ben-parr,mashable-sf-san-francisco,2010-08-25T18:46:48,37.7798819,-122.3914073,San Francisco,Home / Work / Other:Corporate / Office
+ben-parr,exploratorium-san-francisco,2010-08-26T06:59:57,37.8039633,-122.4485311,San Francisco,Arts & Entertainment:Museum
+ben-parr,crunch-fitness-san-francisco,2010-08-26T15:22:44,37.798321,-122.421838,San Francisco,Home / Work / Other:Gym / Fitness:Yoga Studio
+ben-parr,the-bagel-bakery-san-francisco,2010-08-27T16:32:56,37.7799285,-122.3913474,San Francisco,Food:Bagels
+ben-parr,mashable-sf-san-francisco,2010-08-27T16:33:38,37.7798819,-122.3914073,San Francisco,Home / Work / Other:Corporate / Office
+ben-parr,google-sf-office-san-francisco,2010-08-27T21:08:23,37.789709298,-122.390398979,San Francisco,Home / Work / Other:Corporate / Office
+ben-parr,luna-park-san-francisco,2010-08-28T03:16:00,37.76189,-122.421913,San Francisco,Food:American
+ben-parr,nat-and-bens-pad-san-francisco,2010-08-28T07:27:14,37.794354,-122.419753,San Francisco,Home / Work / Other:Home
+ben-parr,in-n-out-burger-mountain-view,2010-08-28T21:45:42,37.420845,-122.093133,Mountain View,Food:Burgers
+ben-parr,san-francisco-international-airport-sfo-san-franci,2010-08-29T17:14:31,37.6163730619,-122.38615036,San Francisco,Travel:Airport
+ben-parr,roam-artisan-burgers-san-francisco,2010-08-30T02:15:41,37.797736,-122.428448,San Francisco,Food:Burgers
+ben-parr,mashable-sf-san-francisco,2010-08-30T20:46:56,37.7798819,-122.3914073,San Francisco,Home / Work / Other:Corporate / Office
+ben-parr,apple-store-san-francisco,2010-08-31T18:29:10,37.800487,-122.438191,San Francisco,Shops:Technology
+ben-parr,san-francisco-dmv-office-san-francisco,2010-08-31T20:16:18,37.7735697,-122.440411,San Francisco,Home / Work / Other:Government
+ben-parr,inner-circle-labs-san-francisco,2010-09-02T02:14:02,37.7948359,-122.403527,San Francisco,Home / Work / Other:Corporate / Office
+ben-parr,spruce-san-francisco,2010-09-02T03:28:14,37.7876023297,-122.452744246,San Francisco,Food:American
+ben-parr,south-beach-cafe-san-francisco,2010-09-02T19:41:34,37.7824,-122.388,San Francisco,Food:Pizza
+ben-parr,mashable-sf-san-francisco,2010-09-02T23:27:07,37.7798819,-122.3914073,San Francisco,Home / Work / Other:Corporate / Office
+ben-parr,fairmont-san-francisco-san-francisco,2010-09-02T23:27:27,37.792342,-122.410784,San Francisco,Travel:Hotel
+ben-parr,the-regency-ballroom-san-francisco,2010-09-03T00:11:18,37.7875831,-122.4216649,San Francisco,Arts & Entertainment:Music Venue:Concert Hall
+ben-parr,candlestick-park-san-francisco,2010-09-03T01:00:58,37.7136678306,-122.386364937,San Francisco,Arts & Entertainment:Stadium:Football
+ben-parr,nat-and-bens-pad-san-francisco,2010-09-03T06:36:41,37.794354,-122.419753,San Francisco,Home / Work / Other:Home
+ben-parr,mgm-grand-hotel-casino-las-vegas,2010-09-04T01:33:15,36.1022204151,-115.168669224,Las Vegas,Arts & Entertainment:Casino
+ben-parr,tom-colicchios-craftsteak-mgm-grand-las-vegas,2010-09-04T05:57:41,36.1025151451,-115.171501637,Las Vegas,Food:Steakhouse
+ben-parr,the-beatles-love-cirque-du-soleil-las-vegas,2010-09-05T06:19:50,36.121098,-115.172371,Las Vegas,Nightlife:Nightclub / Discotheque
+ben-parr,ben-and-nathaniels-lair-san-francisco,2010-09-07T02:46:41,37.792181,-122.419319,San Francisco,Nightlife:Lounge
+ben-parr,mashable-sf-san-francisco,2010-09-07T18:29:49,37.7798819,-122.3914073,San Francisco,Home / Work / Other:Corporate / Office
+ben-parr,royal-ground-san-francisco,2010-09-08T02:49:56,37.7974,-122.422,San Francisco,Food:Café
+ben-parr,san-francisco-museum-of-modern-art-san-francisco,2010-09-08T18:19:37,37.7857963091,-122.400897145,San Francisco,Arts & Entertainment:Museum
+ben-parr,mashable-sf-san-francisco,2010-09-08T23:00:08,37.7798819,-122.3914073,San Francisco,Home / Work / Other:Corporate / Office
+ben-parr,tres-agaves-san-francisco,2010-09-09T01:42:58,37.780423,-122.391646,San Francisco,Food:Mexican
+ben-parr,mashable-sf-san-francisco,2010-09-09T20:51:48,37.7798819,-122.3914073,San Francisco,Home / Work / Other:Corporate / Office
+ben-parr,clift-hotel-san-francisco,2010-09-10T05:08:22,37.786841,-122.4112062,San Francisco,Travel:Hotel
+ben-parr,letterman-digital-arts-center-san-francisco,2010-09-11T00:00:48,37.7983751,-122.4508066,San Francisco,Parks & Outdoors:Park
+ben-parr,cigar-bar-grill-san-francisco,2010-09-11T06:02:47,37.7972,-122.403,San Francisco,Nightlife:Bar
+ben-parr,us-post-office-pine-street-san-francisco,2010-09-11T18:47:46,37.790065,-122.41925,San Francisco,Home / Work / Other:Post Office
+ben-parr,crunch-fitness-san-francisco,2010-09-11T23:32:11,37.798321,-122.421838,San Francisco,Home / Work / Other:Gym / Fitness:Yoga Studio
+ben-parr,roam-artisan-burgers-san-francisco,2010-09-12T02:44:19,37.797736,-122.428448,San Francisco,Food:Burgers
+ben-parr,h2o-lofts-san-francisco,2010-09-12T04:35:06,37.772927,-122.408898,San Francisco,Home / Work / Other:Home
+ben-parr,ihop-san-francisco,2010-09-12T20:13:17,37.8075461705,-122.412586212,San Francisco,Food:Breakfast / Brunch
+ben-parr,amc-loews-metreon-16-san-francisco,2010-09-13T05:46:07,37.7844947599,-122.403681278,San Francisco,Shops:Mall
+ben-parr,mashable-sf-san-francisco,2010-09-14T01:35:34,37.7798819,-122.3914073,San Francisco,Home / Work / Other:Corporate / Office
+ben-parr,andalu-san-francisco,2010-09-14T03:41:00,37.7649056,-122.4242963,San Francisco,Food:Tapas
+ben-parr,el-rio-san-francisco,2010-09-14T05:39:36,37.7468,-122.419,San Francisco,Nightlife:Dive Bar
+ben-parr,mashable-sf-san-francisco,2010-09-14T22:20:10,37.7798819,-122.3914073,San Francisco,Home / Work / Other:Corporate / Office
+ben-parr,twitter-inc-san-francisco,2010-09-14T22:32:02,37.7821374984,-122.400580645,San Francisco,Home / Work / Other:Corporate / Office:Tech Startup
+ben-parr,klout-hq-san-francisco,2010-09-15T00:57:25,37.782163,-122.400591,San Francisco,Home / Work / Other:Corporate / Office:Coworking Space
+ben-parr,concourse-exhibition-center-san-francisco,2010-09-15T17:19:35,37.7719020415,-122.403788567,San Francisco,Home / Work / Other:Event Space
+ben-parr,mashable-sf-san-francisco,2010-09-16T21:14:57,37.7798819,-122.3914073,San Francisco,Home / Work / Other:Corporate / Office
+ben-parr,red-rock-coffee-mountain-view,2010-09-16T21:56:08,37.393588,-122.078752,Mountain View,Food:Coffee Shop
+ben-parr,red-rock-coffee-mountain-view,2010-09-16T22:00:52,37.393588,-122.078752,Mountain View,Food:Coffee Shop
+ben-parr,google-ventures-mountain-view,2010-09-17T03:04:33,37.420037,-122.079837,Mountain View,Home / Work / Other:Corporate / Office
+ben-parr,ritual-coffee-roasters-san-francisco,2010-09-17T22:04:37,37.75647,-122.421199,San Francisco,Food:Coffee Shop
+ben-parr,cafe-du-nord-san-francisco,2010-09-18T06:23:00,37.766684,-122.430514,San Francisco,Food:Snacks
+ben-parr,crunch-fitness-san-francisco,2010-09-18T19:37:41,37.798321,-122.421838,San Francisco,Home / Work / Other:Gym / Fitness:Yoga Studio
+ben-parr,roe-nightclub-and-lounge-san-francisco,2010-09-19T06:27:48,37.7857072788,-122.399400473,San Francisco,Nightlife:Lounge
+ben-parr,sundance-kabuki-cinemas-san-francisco,2010-09-20T01:49:19,37.785131,-122.432756,San Francisco,Arts & Entertainment:Movie Theater:Cineplex
+ben-parr,empress-of-china-san-francisco,2010-09-20T02:47:43,37.794825,-122.406084,San Francisco,Nightlife:Lounge
+ben-parr,bix-san-francisco,2010-09-20T04:59:42,37.796859,-122.402905,San Francisco,Nightlife:Speakeasy / Secret Spot
+ben-parr,royal-ground-san-francisco,2010-09-21T00:25:30,37.7974,-122.422,San Francisco,Food:Café
+ben-parr,south-park-san-francisco,2010-09-21T19:35:17,37.7816499259,-122.393899262,San Francisco,Parks & Outdoors:Park
+ben-parr,myspace-hq-beverly-hills,2010-09-22T02:27:59,34.076212,-118.393564,Beverly Hills,Home / Work / Other:Corporate / Office
+shaherose-charania,funky-door-yoga-nob-hill-san-francisco,2010-10-22T19:59:32,37.789322,-122.420203,San Francisco,Home / Work / Other:Gym / Fitness
+shaherose-charania,funky-door-yoga-nob-hill-san-francisco,2010-08-07T16:39:57,37.789322,-122.420203,San Francisco,Home / Work / Other:Gym / Fitness
+shaherose-charania,dosa-san-francisco,2010-08-08T02:51:54,37.78536,-122.432842,San Francisco,Food:Indian
+shaherose-charania,funky-door-yoga-nob-hill-san-francisco,2010-08-10T15:01:41,37.789322,-122.420203,San Francisco,Home / Work / Other:Gym / Fitness
+shaherose-charania,funky-door-yoga-nob-hill-san-francisco,2010-08-11T15:16:34,37.789322,-122.420203,San Francisco,Home / Work / Other:Gym / Fitness
+shaherose-charania,taverna-aventine-san-francisco,2010-08-14T01:16:13,37.7955978,-122.4029304,San Francisco,Food:Italian
+shaherose-charania,bocadillos-san-francisco,2010-08-14T03:30:42,37.795811,-122.403157,San Francisco,Food:Tapas
+shaherose-charania,stinson-beach-stinson-beach,2010-08-15T00:02:14,37.9118,-122.661,Stinson Beach,Parks & Outdoors:Beach
+shaherose-charania,dosa-san-francisco,2010-08-15T04:38:46,37.78536,-122.432842,San Francisco,Food:Indian
+shaherose-charania,w-san-francisco-san-francisco,2010-08-15T07:26:28,37.785182,-122.400484,San Francisco,Travel:Hotel
+shaherose-charania,funky-door-yoga-nob-hill-san-francisco,2010-08-16T14:49:47,37.789322,-122.420203,San Francisco,Home / Work / Other:Gym / Fitness
+shaherose-charania,oakland-international-airport-oak-oakland,2010-08-16T19:15:27,37.7122674059,-122.212611437,Oakland,Travel:Airport
+maia-bittner,momi-tobys-revolution-cafe-art-bar-san-francisco,2009-06-14T01:18:17,37.775807,-122.425964,San Francisco,Food:Coffee Shop
+maia-bittner,danceground-keriac-san-francisco,2009-06-14T03:32:12,37.7863,-122.44,San Francisco,Arts & Entertainment:Performing Arts:Dance Studio
+maia-bittner,bagdad-cafe-san-francisco,2009-06-14T06:10:44,37.764477,-122.432368,San Francisco,Food:Breakfast / Brunch
+maia-bittner,san-francisco-botanical-garden-san-francisco,2009-06-14T19:18:49,37.7690800455,-122.47033149,San Francisco,Parks & Outdoors:Garden
+maia-bittner,beanery-san-francisco,2009-06-14T20:54:16,37.7639,-122.466,San Francisco,Food:Coffee Shop
+maia-bittner,cafe-flore-san-francisco,2009-06-14T22:39:14,37.764651,-122.432924,San Francisco,Food:Café
+maia-bittner,rainbow-grocery-san-francisco,2009-06-15T00:39:03,37.7682383024,-122.415418625,San Francisco,Food:Vegetarian / Vegan
+maia-bittner,crate-barrel-san-francisco,2009-06-15T20:46:03,37.7863091,-122.4063601,San Francisco,Shops:Furniture / Home
+maia-bittner,cafe-destijl-san-francisco,2009-06-16T17:48:56,37.8015,-122.4,San Francisco,Food:Coffee Shop
+maia-bittner,balmy-alley-san-francisco,2009-06-17T01:02:20,37.7517,-122.412,San Francisco,Arts & Entertainment:Museum
+maia-bittner,dosa-san-francisco,2009-06-17T01:24:20,37.757083,-122.420838,San Francisco,Food:Indian
+maia-bittner,tartine-bakery-cafe-san-francisco,2009-06-17T01:44:04,37.7614192,-122.4240661,San Francisco,Food:Breakfast / Brunch
+maia-bittner,bi-rite-creamery-san-francisco,2009-06-17T01:48:45,37.761529,-122.425799,San Francisco,Food:Ice Cream
+maia-bittner,tartine-bakery-cafe-san-francisco,2009-06-17T15:57:17,37.7614192,-122.4240661,San Francisco,Food:Breakfast / Brunch
+maia-bittner,mission-creek-cafe-san-francisco,2009-06-17T16:39:00,37.7574,-122.421,San Francisco,Shops:Bookstore
+maia-bittner,we-be-sushi-san-francisco,2009-06-18T02:14:05,37.764264,-122.422121,San Francisco,Food:Sushi
+harj-taggar,red-rock-coffee-mountain-view,2010-10-22T15:34:39,37.393588,-122.078752,Mountain View,Food:Coffee Shop
+harj-taggar,901-columbus-caffe-san-francisco,2010-09-09T19:20:40,37.8029,-122.414,San Francisco,Food:Coffee Shop
+harj-taggar,crave-san-francisco,2010-09-14T23:01:15,37.7968,-122.422,San Francisco,Food:Coffee Shop
+harj-taggar,peets-coffee-san-francisco,2010-09-15T00:13:20,37.7959421,-122.4217911,San Francisco,Food:Coffee Shop
+harj-taggar,zarzuela-san-francisco,2010-09-15T03:20:03,37.7993,-122.419,San Francisco,Food:Tapas
+harj-taggar,whole-foods-market-san-francisco,2010-09-16T03:08:45,37.7899127847,-122.42357254,San Francisco,Shops:Food & Drink:Grocery / Supermarket
+harj-taggar,vertigo-san-francisco,2010-09-17T08:04:04,37.7874854,-122.4200417,San Francisco,Nightlife:Bar
+harj-taggar,crave-san-francisco,2010-09-18T21:30:24,37.7968,-122.422,San Francisco,Food:Coffee Shop
+harj-taggar,crave-san-francisco,2010-09-19T21:26:36,37.7968,-122.422,San Francisco,Food:Coffee Shop
+harj-taggar,thai-thai-noodle-san-francisco,2010-09-21T02:57:46,37.7910126,-122.4174218,San Francisco,Food:Thai
+harj-taggar,san-mateo-county-superior-court-central-branch-san,2010-09-21T15:32:15,37.581344,-122.3290441,San Mateo,Home / Work / Other:Government:Courthouse
+harj-taggar,the-coffee-bean-tea-leaf-san-francisco,2010-09-21T22:40:37,37.7898433,-122.434048,San Francisco,Food:Coffee Shop
+harj-taggar,mayes-oyster-and-steak-house-san-francisco,2010-09-25T07:11:29,37.788272,-122.420534,San Francisco,Food:American
+harj-taggar,ruths-chris-steak-house-san-francisco,2010-09-30T02:36:34,37.7904026,-122.4224436,San Francisco,Food:Steakhouse
+harj-taggar,elite-cafe-san-francisco,2010-10-03T20:35:22,37.7886,-122.434,San Francisco,Food:Breakfast / Brunch
+harj-taggar,hardly-strictly-bluegrass-festival-san-francisco,2010-10-03T22:31:03,37.7692899498,-122.486207485,San Francisco,Arts & Entertainment:Music Venue
+harj-taggar,tofu-village-san-francisco,2010-10-04T02:20:26,37.763713,-122.478596,San Francisco,Food:Korean
+mark-g,mediavest-usa-new-york,2010-06-17T12:59:18,40.7631252347,-73.9832156897,New York,Home / Work / Other:Corporate / Office:Auditorium
+mark-g,wiredset-new-york,2010-06-17T12:07:23,40.7408,-74.0072,New York,Home / Work / Other:Corporate / Office:Tech Startup
+mark-g,nbc-studio-1a-today-show-new-york,2010-06-17T12:06:40,40.7591067143,-73.979165554,New York,Arts & Entertainment:Other - Entertainment
+mark-g,printing-house-fitness-racquet-club-new-york,2010-06-17T11:19:29,40.7299,-74.0072,New York,Home / Work / Other:Gym / Fitness
+mark-g,norwood-new-york,2010-06-17T11:19:15,40.7395,-74.0012,New York,Nightlife:Cocktails / Mixology
+mark-g,madison-square-garden-new-york,2010-06-17T11:19:03,40.7504918782,-73.9934778214,New York,Arts & Entertainment:Stadium
+mark-g,nevada-smiths-new-york,2010-06-17T11:18:34,40.7316585,-73.9884097,New York,Nightlife:Bar
+mark-g,top-of-the-standard-hotel-new-york,2010-06-17T04:51:37,40.740667,-74.007828,New York,Arts & Entertainment:Arcade
+mark-g,strand-bookstore-new-york,2010-06-17T04:51:03,40.733432,-73.990939,New York,Food:Coffee Shop
+mark-g,moma-museum-of-modern-art-new-york,2010-06-17T04:50:54,40.7613658922,-73.9775562286,New York,Arts & Entertainment:Art Gallery
+mark-g,kenmare-new-york,2010-06-17T04:50:19,40.7208799,-73.9957558,New York,Nightlife:Bar
+mark-g,the-high-line-new-york,2010-06-16T23:38:07,40.7455988045,-74.00639534,New York,Parks & Outdoors:Garden
+mark-g,strand-bookstore-new-york,2010-06-16T23:37:42,40.733432,-73.990939,New York,Food:Coffee Shop
+mark-g,four-seasons-hotel-new-york-new-york,2010-06-16T23:37:17,40.7618859798,-73.9715373516,New York,Travel:Hotel
+mark-g,guggenheim-museum-new-york,2010-06-16T23:37:05,40.783129,-73.959242,New York,Arts & Entertainment:Museum
+mark-g,wiredset-new-york,2010-06-16T21:44:35,40.7408,-74.0072,New York,Home / Work / Other:Corporate / Office:Tech Startup
+mark-g,pastis-new-york,2010-06-16T21:44:27,40.7396,-74.0064,New York,Food:French
+mark-g,moma-museum-of-modern-art-new-york,2010-06-16T21:44:14,40.7613658922,-73.9775562286,New York,Arts & Entertainment:Art Gallery
+mark-g,norwood-new-york,2010-06-16T21:44:03,40.7395,-74.0012,New York,Nightlife:Cocktails / Mixology
+mark-g,bills-bar-and-burger-new-york,2010-06-16T19:21:09,40.7402845,-74.0058232,New York,Food:Burgers
+mark-g,trendrr-new-york,2010-06-16T17:09:51,40.7408408,-74.0072043,New York,Home / Work / Other:Other - Buildings
+mark-g,soho-house-new-york,2010-06-16T17:09:40,40.7405341,-74.0056874,New York,Arts & Entertainment:Other - Entertainment
+mark-g,nbc-studio-1a-today-show-new-york,2010-06-16T17:09:26,40.7591067143,-73.979165554,New York,Arts & Entertainment:Other - Entertainment
+mark-g,wiredset-new-york,2010-06-16T15:41:46,40.7408,-74.0072,New York,Home / Work / Other:Corporate / Office:Tech Startup
+mark-g,beacon-theatre-new-york,2010-06-16T15:41:36,40.7803156,-73.9814022,New York,Arts & Entertainment:Music Venue:Concert Hall
+mark-g,madison-square-garden-new-york,2010-06-16T15:41:20,40.7504918782,-73.9934778214,New York,Arts & Entertainment:Stadium
+mark-g,whitney-museum-of-american-art-new-york,2010-06-16T15:41:08,40.773394,-73.963834,New York,Arts & Entertainment:Museum
+mark-g,pastis-new-york,2010-06-16T15:08:05,40.7396,-74.0064,New York,Food:French
+mark-g,buzzfeed-new-york,2010-06-16T14:44:45,40.723769,-73.999816,New York,Home / Work / Other:Corporate / Office:Tech Startup
+mark-g,wiredset-new-york,2010-06-16T13:32:30,40.7408,-74.0072,New York,Home / Work / Other:Corporate / Office:Tech Startup
+mark-g,printing-house-fitness-racquet-club-new-york,2010-06-16T11:32:57,40.7299,-74.0072,New York,Home / Work / Other:Gym / Fitness
+mark-g,moma-museum-of-modern-art-new-york,2010-06-16T11:31:54,40.7613658922,-73.9775562286,New York,Arts & Entertainment:Art Gallery
+mark-g,strand-bookstore-new-york,2010-06-16T11:31:24,40.733432,-73.990939,New York,Food:Coffee Shop
+mark-g,strand-bookstore-new-york,2010-06-16T03:52:17,40.733432,-73.990939,New York,Food:Coffee Shop
+mark-g,black-comme-des-garcons-new-york,2010-06-16T03:52:06,40.7440191,-74.0068146,New York,Shops:Apparel:Boutique
+mark-g,kenmare-new-york,2010-06-16T03:51:53,40.7208799,-73.9957558,New York,Nightlife:Bar
+mark-g,pastis-new-york,2010-06-15T20:45:27,40.7396,-74.0064,New York,Food:French
+mark-g,morgan-library-museum-new-york,2010-06-15T19:13:58,40.7493672,-73.9817685,New York,College & Education:Library
+mark-g,comme-des-garcons-new-york,2010-06-15T19:13:26,40.7474398,-74.005681,New York,Shops:Apparel
+mark-g,union-square-new-york,2010-06-15T18:45:33,40.735844095,-73.9904522896,New York,Parks & Outdoors:Other - Parks & Outdoor
+mark-g,the-standard-grill-new-york,2010-06-15T18:21:10,40.7411768468,-74.0073823929,New York,Food:American
+mark-g,the-high-line-new-york,2010-06-15T17:32:55,40.7455988045,-74.00639534,New York,Parks & Outdoors:Garden
+mark-g,phillips-de-pury-company-new-york,2010-06-15T17:31:12,40.7424037,-74.0065523,New York,Arts & Entertainment:Art Gallery
+mark-g,trendrr-new-york,2010-06-15T15:20:22,40.7408408,-74.0072043,New York,Home / Work / Other:Other - Buildings
+mark-g,pastis-new-york,2010-06-15T15:20:04,40.7396,-74.0064,New York,Food:French
+mark-g,wiredset-new-york,2010-06-15T13:41:38,40.7408,-74.0072,New York,Home / Work / Other:Corporate / Office:Tech Startup
+mark-g,printing-house-fitness-racquet-club-new-york,2010-06-15T12:00:07,40.7299,-74.0072,New York,Home / Work / Other:Gym / Fitness
+mark-g,soho-house-new-york,2010-06-15T11:59:28,40.7405341,-74.0056874,New York,Arts & Entertainment:Other - Entertainment
+mark-g,strand-bookstore-new-york,2010-06-15T11:59:18,40.733432,-73.990939,New York,Food:Coffee Shop
+mark-g,nevada-smiths-new-york,2010-06-15T11:58:55,40.7316585,-73.9884097,New York,Nightlife:Bar
+mark-g,en-japanese-brasserie-new-york,2010-06-15T01:03:09,40.7305907,-74.0068124,New York,Nightlife:Sake Bar
+mark-g,james-j-walker-park-new-york,2010-06-14T23:58:01,40.7302288,-74.0068527,New York,Parks & Outdoors:Playground
+mark-g,the-webby-awards-new-york,2010-06-14T23:55:45,40.7060291,-74.0090594,New York,Home / Work / Other:Event Space
+mark-g,cipriani-wall-street-new-york,2010-06-14T23:55:14,40.706258,-74.00934,New York,Nightlife:Cocktails / Mixology
+mark-g,cipriani-wall-street-new-york,2010-06-14T23:55:11,40.706258,-74.00934,New York,Nightlife:Cocktails / Mixology
+mark-g,pastis-new-york,2010-06-14T23:33:04,40.7396,-74.0064,New York,Food:French
+mark-g,morgan-library-museum-new-york,2010-06-14T22:30:57,40.7493672,-73.9817685,New York,College & Education:Library
+mark-g,william-morris-endeavor-new-york,2010-06-14T21:28:18,40.76216,-73.9788227,New York,Home / Work / Other:Corporate / Office
+mark-g,ziegfeld-theater-new-york,2010-06-14T21:28:01,40.762896,-73.979756,New York,Arts & Entertainment:Movie Theater
+mark-g,black-comme-des-garcons-new-york,2010-06-14T21:26:58,40.7440191,-74.0068146,New York,Shops:Apparel:Boutique
+mark-g,comme-des-garcons-new-york,2010-06-14T21:25:04,40.7474398,-74.005681,New York,Shops:Apparel
+mark-g,comme-des-garcons-new-york,2010-06-14T21:23:53,40.7474398,-74.005681,New York,Shops:Apparel
+mark-g,wiredset-new-york,2010-06-14T20:29:16,40.7408,-74.0072,New York,Home / Work / Other:Corporate / Office:Tech Startup
+mark-g,ace-hotel-new-york,2010-06-14T20:29:06,40.7458589105,-73.9883708954,New York,Travel:Hotel
+mark-g,soho-house-new-york,2010-06-14T20:28:53,40.7405341,-74.0056874,New York,Arts & Entertainment:Other - Entertainment
+mark-g,soho-house-new-york,2010-06-14T18:44:34,40.7405341,-74.0056874,New York,Arts & Entertainment:Other - Entertainment
+mark-g,morgan-library-museum-new-york,2010-06-14T15:33:52,40.7493672,-73.9817685,New York,College & Education:Library
+mark-g,pastis-new-york,2010-06-14T13:01:10,40.7396,-74.0064,New York,Food:French
+mark-g,printing-house-fitness-racquet-club-new-york,2010-06-14T11:29:29,40.7299,-74.0072,New York,Home / Work / Other:Gym / Fitness
+mark-g,printing-house-fitness-racquet-club-new-york,2010-06-14T11:29:26,40.7299,-74.0072,New York,Home / Work / Other:Gym / Fitness
+mark-g,soho-house-new-york,2010-06-14T11:28:04,40.7405341,-74.0056874,New York,Arts & Entertainment:Other - Entertainment
+mark-g,soho-house-new-york,2010-06-14T11:28:03,40.7405341,-74.0056874,New York,Arts & Entertainment:Other - Entertainment
+mark-g,strand-bookstore-new-york,2010-06-14T00:33:47,40.733432,-73.990939,New York,Food:Coffee Shop
+mark-g,morandi-new-york,2010-06-13T22:59:12,40.7356,-74.0017,New York,Food:Italian
+mark-g,big-apple-bbq-block-party-new-york,2010-06-13T20:03:45,40.7424976,-73.9877778,New York,Food:BBQ
+mark-g,love-new-york,2010-06-13T10:04:56,40.7329,-73.9984,New York,Nightlife:Nightclub / Discotheque
+mark-g,other-tent-at-bonnaroo-music-arts-festival-manches,2010-06-13T10:00:42,35.473794538,-86.0534727573,Manchester,Arts & Entertainment:Music Venue
+mark-g,solar-stage-at-bonnaroo-music-arts-festival-manche,2010-06-13T10:00:29,35.4754895681,-86.0506296158,Manchester,Arts & Entertainment:Music Venue
+mark-g,bonnaroo-comedy-theatre-at-bonnaroo-music-arts-fes,2010-06-13T10:00:11,35.4702121404,-86.0542881489,Manchester,Arts & Entertainment:Music Venue
+mark-g,the-academy-at-bonnaroo-music-arts-festival-manche,2010-06-13T09:59:55,35.4751400803,-86.0549640656,Manchester,Arts & Entertainment:Art Gallery
+mark-g,planet-roo-at-bonnaroo-music-arts-festival-manches,2010-06-13T09:59:39,35.4756992601,-86.0522603989,Manchester,Arts & Entertainment:Music Venue
+mark-g,norwood-new-york,2010-06-13T09:56:49,40.7395,-74.0012,New York,Nightlife:Cocktails / Mixology
+mark-g,strand-bookstore-new-york,2010-06-13T09:56:35,40.733432,-73.990939,New York,Food:Coffee Shop
+mark-g,nbc-studio-1a-today-show-new-york,2010-06-13T09:56:07,40.7591067143,-73.979165554,New York,Arts & Entertainment:Other - Entertainment
+mark-g,printing-house-building-new-york-city,2010-06-12T23:31:18,40.730037,-74.0071679,New York City,Home / Work / Other:Other - Buildings
+mark-g,soho-house-new-york,2010-06-12T23:31:05,40.7405341,-74.0056874,New York,Arts & Entertainment:Other - Entertainment
+mark-g,kenmare-new-york,2010-06-12T23:30:52,40.7208799,-73.9957558,New York,Nightlife:Bar
+doug-akin,the-mauna-loa-club-san-francisco,2010-08-18T02:25:52,37.797281,-122.435824,San Francisco,Nightlife:Bar
+doug-akin,balboa-cafe-san-francisco,2010-08-18T04:18:25,37.7989449,-122.4358843,San Francisco,Food:Breakfast / Brunch
+doug-akin,hotel-nikko-san-francisco,2010-08-18T06:11:08,37.7860464414,-122.409292459,San Francisco,Travel:Hotel
+doug-akin,ferry-plaza-seafood-san-francisco,2010-08-18T21:31:32,37.7955195,-122.393365,San Francisco,Food:Seafood
+doug-akin,blue-bottle-coffee-san-francisco,2010-08-18T22:26:59,37.7955,-122.3937,San Francisco,Food:Café
+doug-akin,harveys-san-francisco,2010-08-19T20:45:26,37.7608719,-122.4350189,San Francisco,Arts & Entertainment:Comedy Club
+doug-akin,the-domain-hotel-sunnyvale-sunnyvale,2010-08-19T23:52:10,37.3523211,-122.0035132,Sunnyvale,Travel:Hotel
+doug-akin,agenda-san-jose,2010-08-20T04:52:03,37.329991,-121.886284,San Jose,Nightlife:Lounge
+doug-akin,hasso-plattner-institute-of-design-stanford-stanfo,2010-08-20T17:24:21,37.4265896,-122.1743372,Stanford,College & Education:Academic Building:Engineering
+doug-akin,san-francisco-international-airport-sfo-san-franci,2010-08-21T05:45:29,37.6163730619,-122.38615036,San Francisco,Travel:Airport
+doug-akin,grey-dog-cafe-new-york,2010-08-22T15:46:39,40.7337041,-73.993003,New York,Food:Breakfast / Brunch
+doug-akin,whitmans-new-york,2010-08-22T19:25:25,40.727801,-73.984456,New York,Food:Burgers
+doug-akin,amc-loews-village-7-new-york,2010-08-22T20:29:54,40.731613,-73.988806,New York,Arts & Entertainment:Movie Theater:Cineplex
+doug-akin,barbuto-new-york,2010-08-25T00:14:06,40.7378,-74.0082,New York,Food:Italian
+doug-akin,cookshop-new-york,2010-08-25T13:33:52,40.7457945,-74.0055212,New York,Food:American
+doug-akin,friedmans-lunch-new-york,2010-08-26T18:18:39,40.7419,-74.0047,New York,Food:Breakfast / Brunch
+doug-akin,media-bistro-new-york,2010-08-26T20:21:09,40.7456006,-73.9823315,New York,Home / Work / Other:Corporate / Office
+doug-akin,kedswhitney-window-the-whitney-museum-new-york,2010-08-28T00:08:12,40.7733593779,-73.9640808105,New York,Arts & Entertainment:Museum
+doug-akin,kedswhitney-window-the-whitney-museum-new-york,2010-08-28T00:08:23,40.7733593779,-73.9640808105,New York,Arts & Entertainment:Museum
+doug-akin,portland-international-jetport-pwm-portland,2010-08-28T17:51:01,43.6475217,-70.3102391,Portland,Travel:Airport
+doug-akin,local-sprouts-portland,2010-08-29T15:24:03,43.6560225,-70.2860643,Portland,Food:Café
+doug-akin,ll-bean-factory-store-portland-portland,2010-08-29T17:34:02,43.6555134,-70.2614394,Portland,Shops:Sports & Outdoors
+doug-akin,portland-international-jetport-pwm-portland,2010-08-29T18:12:23,43.6475217,-70.3102391,Portland,Travel:Airport
+doug-akin,cleveland-hopkins-international-airport-cle-clevel,2010-08-29T20:30:03,41.411352948,-81.8382740021,Cleveland,Travel:Airport
+doug-akin,denver-international-airport-den-denver,2010-08-30T00:00:48,39.8475579574,-104.67464447,Denver,Travel:Airport
+doug-akin,reno-tahoe-international-airport-rno-reno,2010-08-30T03:37:10,39.5058122076,-119.775588512,Reno,Travel:Airport:Gate
+doug-akin,hyatt-regency-lake-tahoe-resort-spa-and-casino-inc,2010-08-30T04:43:57,39.239367,-119.943323,Incline Village,Travel:Hotel
+doug-akin,tahoe-gal-dinner-cruise,2010-08-31T01:41:01,39.236801,-119.944698,NULL,Travel:Boat / Ferry
+doug-akin,mpmis-mobile-insider-summit-incline-village,2010-08-31T18:21:43,39.2393665125,-119.943580627,Incline Village,Home / Work / Other:Event Space
+doug-akin,raleys-supermarket-incline-village,2010-09-01T02:54:15,39.2505752557,-119.949653149,Incline Village,Shops:Food & Drink:Grocery / Supermarket
+doug-akin,san-francisco-international-airport-sfo-san-franci,2010-09-06T16:33:44,37.6163730619,-122.38615036,San Francisco,Travel:Airport
+doug-akin,cookshop-new-york,2010-09-07T12:56:02,40.7457945,-74.0055212,New York,Food:American
+doug-akin,morandi-new-york,2010-09-08T01:29:22,40.7356,-74.0017,New York,Food:Italian
+doug-akin,friedmans-lunch-new-york,2010-09-08T22:22:47,40.7419,-74.0047,New York,Food:Breakfast / Brunch
+doug-akin,sheraton-boston-hotel-boston,2010-09-11T13:06:08,42.346492204,-71.0839354992,Boston,Travel:Hotel
+doug-akin,collegefest-2010-boston,2010-09-11T13:37:13,42.3484757,-71.0825857,Boston,Arts & Entertainment:Other - Entertainment
+doug-akin,jp-licks-boston,2010-09-11T21:14:15,42.3481,-71.0872,Boston,Food:Ice Cream
+doug-akin,jennifers-nails,2010-09-11T23:16:47,42.35006,-71.080704,NULL,Shops:Salon / Barbershop
+doug-akin,lir-irish-pub-restaurant-boston,2010-09-12T02:12:38,42.3485,-71.0843,Boston,Nightlife:Bar
+doug-akin,shops-at-prudential-center-boston,2010-09-12T15:17:49,42.3472375744,-71.0813498497,Boston,Shops:Mall
+doug-akin,life-is-good-festival-canton,2010-09-12T19:05:16,42.2080742,-71.1183035,Canton,Arts & Entertainment:Music Venue
+doug-akin,boston-logan-international-airport-bos-boston,2010-09-12T22:45:28,42.3683104528,-71.0215473175,Boston,Travel:Airport
+doug-akin,grey-dog-cafe-new-york,2010-09-13T13:22:07,40.7337041,-73.993003,New York,Food:Breakfast / Brunch
+doug-akin,chicago-ohare-international-airport-ord-chicago,2010-09-15T02:23:16,41.9761144002,-87.905151844,Chicago,Travel:Airport
+doug-akin,hilton-ohare-sports-edition-bar-chicago,2010-09-15T03:24:14,41.976553,-87.906544,Chicago,Nightlife:Hotel Bar
+doug-akin,istrategy-2010-conference-chicago,2010-09-15T14:04:13,41.8843562,-87.6331805,Chicago,Home / Work / Other:Event Space
+doug-akin,istrategy-2010-conference-chicago,2010-09-16T19:34:27,41.8843562,-87.6331805,Chicago,Home / Work / Other:Event Space
+doug-akin,the-white-chocolate-grill-naperville,2010-09-17T17:46:37,41.8037342474,-88.1267666817,Naperville,Food:Desserts
+doug-akin,providence-night-club-lounge-new-york,2010-09-18T05:05:55,40.7671841,-73.9834508,New York,Arts & Entertainment:Arcade
+doug-akin,mr-youth-main-conference-room-new-york,2010-10-01T18:02:40,40.743253,-74.00669,New York,Home / Work / Other:Corporate / Office:Conference room
+doug-akin,hotel-griffou-new-york,2010-10-02T01:30:45,40.7334051942,-73.9973831177,New York,Nightlife:Bar
+doug-akin,chelsea-clearview-cinemas-new-york,2010-10-02T23:55:05,40.745,-73.9979,New York,Arts & Entertainment:Movie Theater:Cineplex
+doug-akin,equinox-new-york,2010-10-03T13:07:38,40.7375868,-74.0018153,New York,Home / Work / Other:Gym / Fitness
+doug-akin,john-f-kennedy-international-airport-jfk-queens,2010-10-03T21:56:15,40.6451219184,-73.783493042,Queens,Travel:Airport
+doug-akin,equinox-new-york,2010-10-20T12:45:03,40.7375868,-74.0018153,New York,Home / Work / Other:Gym / Fitness
+doug-akin,lifethyme-natural-foods-new-york,2010-10-20T12:52:39,40.733752,-73.999078,New York,Shops:Food & Drink:Grocery / Supermarket
+doug-akin,the-hurricane-club-new-york,2010-10-20T22:49:46,40.7422417201,-73.9852702618,New York,Nightlife:Cocktails / Mixology
+doug-akin,gramercy-park-hotel-new-york,2010-10-21T18:15:47,40.738546,-73.985772,New York,Travel:Hotel
+doug-akin,moonstruck-diner-new-york,2010-07-16T05:54:17,40.7464,-74.0018,New York,Food:Diner
+doug-akin,the-hotel-on-rivington-new-york,2010-07-16T03:56:59,40.7198,-73.9881,New York,Travel:Hotel
+doug-akin,abe-arthurs-new-york,2010-07-16T01:00:09,40.741534,-74.005972,New York,Food:Steakhouse
+doug-akin,desmond-tutu-center-new-york,2010-07-15T13:00:47,40.74659,-74.00485,New York,Travel:Hotel
+doug-akin,the-grey-dog-new-york,2010-07-15T11:41:14,40.740618,-74.000658,New York,Food:Sandwiches
+jon-steinberg,devon-yacht-club,2010-08-20T23:25:10,40.991026,-72.10415,NULL,Parks & Outdoors:Harbor / Marina
+jon-steinberg,jacks-coffee-amagansett,2010-08-21T13:31:28,40.974401,-72.141917,Amagansett,Food:Café
+jon-steinberg,24-hour-fitness-new-york,2010-08-24T11:44:05,40.724839,-73.996147,New York,Home / Work / Other:Gym / Fitness:Gym
+jon-steinberg,meredith-publishing-new-york,2010-08-25T13:25:22,40.7508169,-73.976515,New York,Home / Work / Other:Corporate / Office
+jon-steinberg,balthazar-restaurant-new-york,2010-08-26T12:28:10,40.722659,-73.998182,New York,Food:French
+jon-steinberg,buzzfeed-new-york,2010-08-26T16:59:52,40.723769,-73.999816,New York,Home / Work / Other:Corporate / Office:Tech Startup
+jon-steinberg,cafe-bacio-new-york,2010-08-27T01:11:56,40.7689419,-73.9611693,New York,Food:Café
+jon-steinberg,the-smile-new-york,2010-08-27T16:00:01,40.726621,-73.993545,New York,Food:American
+jon-steinberg,the-palm-east-hampton,2010-08-28T01:26:33,40.961752,-72.187214,East Hampton,Food:Steakhouse
+jon-steinberg,flywheel-sports-sag-harbor,2010-08-28T12:21:39,41.002636,-72.294852,Sag Harbor,Home / Work / Other:Gym / Fitness
+jon-steinberg,east-hampton-village-hardware-east-hampton,2010-08-28T14:50:35,40.965424,-72.192563,East Hampton,Shops:Hardware
+jon-steinberg,burger-bloodbath-amagansett,2010-08-28T20:40:50,40.970614,-72.131967,Amagansett,Home / Work / Other:Event Space
+jon-steinberg,flywheel-sports-sag-harbor,2010-08-29T12:18:34,41.002636,-72.294852,Sag Harbor,Home / Work / Other:Gym / Fitness
+jon-steinberg,the-clam-bar-amagansett,2010-08-29T20:56:41,40.9989,-72.044,Amagansett,Food:Seafood
+jon-steinberg,lirr-east-hampton-station-east-hampton,2010-08-30T09:52:40,40.9648310478,-72.1936511993,East Hampton,Travel:Train Station:Train
+jon-steinberg,publicis-ny-new-york,2010-08-30T20:31:10,40.7502,-73.9875,New York,Home / Work / Other:Corporate / Office
+jon-steinberg,chinatown-fair-video-arcade-new-york,2010-09-03T00:53:05,40.713935,-73.9986838,New York,Arts & Entertainment:Arcade
+jon-steinberg,jacks-coffee-amagansett,2010-09-04T13:36:04,40.974401,-72.141917,Amagansett,Food:Café
+jon-steinberg,babettes-east-hampton,2010-09-04T15:11:35,40.964691,-72.187564,East Hampton,Food:Breakfast / Brunch
+jon-steinberg,serafina-east-hampton,2010-09-05T00:10:07,40.96893,-72.181731,East Hampton,Food:Italian
+jon-steinberg,nick-tonis-east-hampton,2010-09-05T00:44:08,40.9638,-72.1852,East Hampton,Food:Italian
+jon-steinberg,cafe-bacio-new-york,2010-09-23T12:04:45,40.7689419,-73.9611693,New York,Food:Café
+jon-steinberg,starbucks-coffee-spring-crosby-new-york,2010-09-24T12:12:50,40.7225093,-73.997654,New York,Food:Coffee Shop
+jon-steinberg,alice-tully-hall-lincoln-center-new-york,2010-09-24T21:38:06,40.7727,-73.9823,New York,Arts & Entertainment:Performing Arts:Concert Hall
+jon-steinberg,92nd-street-y-new-york,2010-09-25T15:09:36,40.782751,-73.952907,New York,Home / Work / Other:Event Space
+jon-steinberg,ride-the-zone-new-york,2010-09-26T12:15:26,40.7665669,-73.9629028,New York,Home / Work / Other:Gym / Fitness
+jon-steinberg,nicolas-restaurant-new-york,2010-09-26T22:46:36,40.777792,-73.956245,New York,Food:Italian
+jon-steinberg,frc-ad-summit-eventi,2010-09-27T19:25:33,40.747009,-73.990153,NULL,Home / Work / Other:Event Space
+jon-steinberg,buzzfeed-new-york,2010-09-30T13:04:35,40.723769,-73.999816,New York,Home / Work / Other:Corporate / Office:Tech Startup
+jon-steinberg,sheraton-new-york-hotel-towers-new-york,2010-09-30T15:05:19,40.7625685886,-73.9822769165,New York,Travel:Hotel
+jon-steinberg,eataly-new-york,2010-10-17T14:58:25,40.741967,-73.9894911,New York,Food:Italian
+jon-steinberg,24-hour-fitness-new-york,2010-10-18T11:41:17,40.724839,-73.996147,New York,Home / Work / Other:Gym / Fitness:Gym
+jon-steinberg,buzzfeed-new-york,2010-10-18T17:04:10,40.723769,-73.999816,New York,Home / Work / Other:Corporate / Office:Tech Startup
+jon-steinberg,rose-bar-at-gramercy-park-hotel-new-york,2010-10-18T23:02:12,40.738546,-73.985772,New York,Nightlife:Lounge
+jon-steinberg,buzzfeed-new-york,2010-10-19T13:13:04,40.723769,-73.999816,New York,Home / Work / Other:Corporate / Office:Tech Startup
+jon-steinberg,buzzfeed-new-york,2010-10-19T18:59:32,40.723769,-73.999816,New York,Home / Work / Other:Corporate / Office:Tech Startup
+jon-steinberg,park-211-new-york,2010-10-19T23:10:15,40.768425,-73.960552,New York,Parks & Outdoors:Playground
+jon-steinberg,24-hour-fitness-new-york,2010-10-20T11:58:19,40.724839,-73.996147,New York,Home / Work / Other:Gym / Fitness:Gym
+jon-steinberg,bartle-bogle-hegarty-new-york,2010-10-20T14:57:39,40.720114,-74.005092,New York,Home / Work / Other:Corporate / Office
+jon-steinberg,buzzfeed-new-york,2010-10-20T16:49:00,40.723769,-73.999816,New York,Home / Work / Other:Corporate / Office:Tech Startup
+jon-steinberg,fast-company-new-york,2010-10-20T22:04:58,40.7117,-74.0125,New York,Home / Work / Other:Corporate / Office
+jon-steinberg,buzzfeed-new-york,2010-10-21T12:42:41,40.723769,-73.999816,New York,Home / Work / Other:Corporate / Office:Tech Startup
+jon-steinberg,phd-omnicom-new-york,2010-10-21T13:57:43,40.7503,-73.9734,New York,Home / Work / Other:Corporate / Office:Conference room
+jon-steinberg,buzzfeed-new-york,2010-10-21T21:36:06,40.723769,-73.999816,New York,Home / Work / Other:Corporate / Office:Tech Startup
+jon-steinberg,regal-cinema-east-hampton-east-hampton,2010-07-31T22:47:27,40.9633,-72.1855,East Hampton,Arts & Entertainment:Movie Theater
+jon-steinberg,herrick-park,2010-07-31T20:58:38,40.964346,-72.188224,NULL,Parks & Outdoors:Park
+jon-steinberg,flywheel-sports-sag-harbor,2010-07-31T12:16:11,41.002636,-72.294852,Sag Harbor,Home / Work / Other:Gym / Fitness
+jon-steinberg,buzzfeed-new-york,2010-07-30T13:52:20,40.723769,-73.999816,New York,Home / Work / Other:Corporate / Office:Tech Startup
+jon-steinberg,ge-crotonville-ossining,2010-07-29T12:45:41,41.1884453,-73.8664167,Ossining,College & Education:Trade / Tech School
+jon-steinberg,mcdonalds-new-york,2010-07-29T11:54:20,40.777715,-73.954374,New York,Food:Burgers
+jon-steinberg,ge-crotonville-white-house,2010-07-29T00:25:26,41.189182,-73.866703,NULL,Arts & Entertainment:Other - Entertainment
+jon-steinberg,ge-crotonville-ossining,2010-07-28T20:05:20,41.1884453,-73.8664167,Ossining,College & Education:Trade / Tech School
+jon-steinberg,publicis-ny-new-york,2010-07-28T17:39:56,40.7502,-73.9875,New York,Home / Work / Other:Corporate / Office
+jon-steinberg,24-hour-fitness-new-york,2010-07-28T12:15:44,40.724839,-73.996147,New York,Home / Work / Other:Gym / Fitness:Gym
+jon-steinberg,buzzfeed-new-york,2010-07-27T14:15:29,40.723769,-73.999816,New York,Home / Work / Other:Corporate / Office:Tech Startup
+jon-steinberg,24-hour-fitness-new-york,2010-07-27T11:35:19,40.724839,-73.996147,New York,Home / Work / Other:Gym / Fitness:Gym
+jon-steinberg,mec-new-york-new-york,2010-07-26T14:49:51,40.7630994,-73.981785,New York,Home / Work / Other:Corporate / Office
+jon-steinberg,buzzfeed-new-york,2010-07-26T12:25:36,40.723769,-73.999816,New York,Home / Work / Other:Corporate / Office:Tech Startup
+jon-steinberg,applebees-bohemia,2010-07-25T21:56:46,40.7844049,-73.1091212,Bohemia,Food:American
+dens,ramen-setagaya-new-york,2010-10-22T17:29:20,40.7286572107,-73.988134861,New York,Food:Ramen / Noodles
+dens,foursquare-hq-new-york,2010-10-22T18:15:29,40.7282750809,-73.9911818504,New York,Home / Work / Other:Corporate / Office:Tech Startup
+dens,ramen-setagaya-new-york,2010-10-13T17:26:37,40.7286572107,-73.988134861,New York,Food:Ramen / Noodles
+dens,buckingham-hotel-new-york,2010-10-14T00:05:13,40.7644,-73.9772,New York,Travel:Hotel
+dens,the-burger-joint-new-york,2010-10-14T01:38:55,40.763999,-73.978481,New York,Food:Burgers
+dens,starbucks-new-york,2010-10-14T13:33:34,40.7300149734,-73.9915037155,New York,Food:Coffee Shop
+dens,ogawa-cafe-new-york,2010-10-15T17:40:58,40.7272,-73.9923,New York,Food:Sushi
+dens,greenwich-service-area-northbound-greenwich,2010-10-16T00:29:21,41.0410218825,-73.6724603176,Greenwich,Travel:Highway / Traffic
+dens,five-guys-burgers-fries-new-haven,2010-10-16T01:30:51,41.3365814,-72.9784845,New Haven,Food:Fast Food
+dens,north-branch-club-west-dover,2010-10-16T05:09:35,42.969053,-72.889182,West Dover,Parks & Outdoors:Ski Area:Ski House / Chalet
+dens,north-branch-club-west-dover,2010-10-17T00:56:01,42.969053,-72.889182,West Dover,Parks & Outdoors:Ski Area:Ski House / Chalet
+dens,north-branch-club-west-dover,2010-10-17T20:22:20,42.969053,-72.889182,West Dover,Parks & Outdoors:Ski Area:Ski House / Chalet
+dens,headless-horseman,2010-10-17T23:55:17,41.852156,-73.969817,NULL,Arts & Entertainment:Other - Entertainment
+dens,dpstylestm-house-of-satisfaction-new-york,2010-10-18T05:36:48,40.725630601,-73.9801552892,New York,Home / Work / Other:Home
+dens,st-marks-market-new-york,2010-10-18T18:51:46,40.7290718598,-73.9887571335,New York,Shops:Food & Drink:Grocery / Supermarket
+dens,foursquare-hq-new-york,2010-10-18T18:58:12,40.7282750809,-73.9911818504,New York,Home / Work / Other:Corporate / Office:Tech Startup
+dens,dpstylestm-house-of-satisfaction-new-york,2010-10-18T23:55:16,40.725630601,-73.9801552892,New York,Home / Work / Other:Home
+dens,b-bar-grill-new-york,2010-10-19T00:35:02,40.7272134,-73.9919357,New York,Nightlife:Lounge
+dens,dpstylestm-house-of-satisfaction-new-york,2010-10-19T03:00:18,40.725630601,-73.9801552892,New York,Home / Work / Other:Home
+dens,dpstylestm-house-of-satisfaction-new-york,2010-10-19T13:05:44,40.725630601,-73.9801552892,New York,Home / Work / Other:Home
+dens,foursquare-hq-new-york,2010-10-19T13:26:56,40.7282750809,-73.9911818504,New York,Home / Work / Other:Corporate / Office:Tech Startup
+dens,foursquare-hq-new-york,2010-10-19T15:41:05,40.7282750809,-73.9911818504,New York,Home / Work / Other:Corporate / Office:Tech Startup
+erik-schwartz,cosi-kendall-square-cambridge,2010-07-15T17:16:50,42.3623,-71.0857,Cambridge,Food:Sandwiches
+erik-schwartz,beale-street-bbq-bath,2010-07-14T22:32:55,43.9123437,-69.8169738,Bath,Food:BBQ
+erik-schwartz,bath-library-gazebo-bath,2010-07-13T22:41:16,43.915897,-69.81534,Bath,Parks & Outdoors:Other - Parks & Outdoor
+erik-schwartz,bath-library-gazebo-bath,2010-07-13T22:31:14,43.915897,-69.81534,Bath,Parks & Outdoors:Other - Parks & Outdoor
+erik-schwartz,cafe-creme-bath,2010-07-13T12:06:59,43.9126744,-69.8141271,Bath,Food:Coffee Shop
+erik-schwartz,frontier-brunswick,2010-07-12T18:38:22,43.918898,-69.967139,Brunswick,Arts & Entertainment:Movie Theater
+erik-schwartz,boston-logan-international-airport-bos-boston,2010-07-11T12:46:30,42.3669153264,-71.0212469101,Boston,Travel:Airport
+erik-schwartz,cafe-creme-bath,2010-07-10T13:55:44,43.9126744,-69.8141271,Bath,Food:Coffee Shop
+erik-schwartz,cafe-creme-bath,2010-07-09T14:30:24,43.9126744,-69.8141271,Bath,Food:Coffee Shop
+erik-schwartz,motel-6-geneva-ohio-geneva-ohio,2010-07-07T22:28:37,41.7703514723,-80.9475231171,Geneva (Ohio),Travel:Hotel:Motel
+erik-schwartz,motel-6-moline,2010-07-07T03:01:11,41.4552864,-90.499486,moline,Travel:Hotel:Motel
+erik-schwartz,starbucks-coffee-north-platte,2010-07-06T13:07:54,41.1174958,-100.7639699,North Platte,Food:Coffee Shop
+erik-schwartz,motel-6-north-platte-north-platte,2010-07-06T00:20:28,41.1203994751,-100.764297485,North Platte,Travel:Hotel:Motel
+erik-schwartz,ruby-tuesday-north-platte,2010-07-05T23:32:20,41.1173211,-100.763974,North Platte,Food:American
+erik-schwartz,cabelas-sidney,2010-07-05T20:35:39,41.1145380873,-102.956914902,Sidney,Shops:Sports & Outdoors
+erik-schwartz,lincoln-monument-rest-stop-laramie,2010-07-05T17:23:53,41.2388347529,-105.435876846,Laramie,Travel:Highway / Traffic
+erik-schwartz,motel-6-rock-springs,2010-07-05T00:07:16,41.582296,-109.256253,Rock Springs,Travel:Hotel:Motel
+erik-schwartz,bonneville-salt-flats,2010-07-04T19:02:13,40.741208,-113.852292,NULL,Parks & Outdoors:Scenic Lookout
+erik-schwartz,salt-flats-eb-rest-area-wendover,2010-07-04T19:02:02,40.7376325655,-113.857154846,Wendover,Travel:Highway / Traffic
+erik-schwartz,beowawe-rest-area-beowawe,2010-07-04T15:51:12,40.679694212,-116.473574638,Beowawe,Travel:Other - Travel
+erik-schwartz,sids-restuarant-winnemucca,2010-07-04T14:04:39,40.9639382,-117.7440531,Winnemucca,Food:Diner
+erik-schwartz,motel-6-winnemucca-winnemucca,2010-07-04T01:02:07,40.9627990723,-117.745002747,Winnemucca,Travel:Hotel:Motel
+erik-schwartz,pilot-travel-center-fernley,2010-07-03T22:56:53,39.6137978,-119.265887117,Fernley,Travel:Highway / Traffic
+erik-schwartz,gold-run-rest-stop-gold-run,2010-07-03T20:51:15,39.180454,-120.855134,Gold Run,Travel:Highway / Traffic
+erik-schwartz,peets-coffee-tea-menlo-park,2010-07-03T13:56:21,37.4494134,-122.1863578,Menlo Park,Food:Café
+erik-schwartz,baskin-robbins-menlo-park-menlo-park,2010-07-03T01:38:03,37.4502467735,-122.185360193,Menlo Park,Food:Ice Cream
+erik-schwartz,amicis-east-coast-pizzeria-menlo-park-menlo-park,2010-07-03T00:42:02,37.450269,-122.186056,Menlo Park,Food:Pizza
+erik-schwartz,synchronizetv-headquarters-menlo-park,2010-06-30T19:01:48,37.4316485,-122.2013267,Menlo Park,Home / Work / Other:Corporate / Office:Tech Startup
+erik-schwartz,peets-coffee-tea-menlo-park,2010-06-30T15:14:22,37.4494134,-122.1863578,Menlo Park,Food:Café
+erik-schwartz,chevys-redwood-city-redwood-city,2010-06-29T19:54:55,37.469332,-122.21135,Redwood City,Food:Mexican
+erik-schwartz,synchronizetv-headquarters-menlo-park,2010-06-28T20:52:21,37.4316485,-122.2013267,Menlo Park,Home / Work / Other:Corporate / Office:Tech Startup
+erik-schwartz,starbucks-avy-alameda-menlo-park,2010-06-28T20:21:55,37.4317,-122.202,Menlo Park,Food:Coffee Shop
+erik-schwartz,the-dutch-goose-menlo-park,2010-06-28T19:57:08,37.4320385596,-122.201550007,Menlo Park,Food:Burgers
+erik-schwartz,stanford-theatre-palo-alto,2010-06-28T02:20:39,37.4450509631,-122.162706256,Palo Alto,Arts & Entertainment:Movie Theater
+erik-schwartz,peets-coffee-tea-menlo-park,2010-06-27T18:44:03,37.4494134,-122.1863578,Menlo Park,Food:Café
+erik-schwartz,nealon-park-menlo-park,2010-06-26T21:50:00,37.4439,-122.183,Menlo Park,Parks & Outdoors:Park
+erik-schwartz,peets-coffee-tea-menlo-park,2010-06-26T16:51:14,37.4494134,-122.1863578,Menlo Park,Food:Café
+erik-schwartz,draegers-market-menlo-park,2010-06-25T20:04:19,37.449236,-122.185279,Menlo Park,Shops:Food & Drink:Grocery / Supermarket
+erik-schwartz,the-dutch-goose-menlo-park,2010-06-24T20:54:42,37.4320385596,-122.201550007,Menlo Park,Food:Burgers
+erik-schwartz,janta-indian-cuisine-palo-alto,2010-06-24T00:37:30,37.4476,-122.162,Palo Alto,Food:Indian
+erik-schwartz,peets-coffee-tea-menlo-park,2010-06-21T15:16:44,37.4494134,-122.1863578,Menlo Park,Food:Café
+erik-schwartz,san-francisco-zoo-san-francisco,2010-06-19T21:45:47,37.733169,-122.505713,San Francisco,Arts & Entertainment:Zoo / Aquarium
+erik-schwartz,mels-drive-in-san-francisco,2010-06-19T20:03:09,37.781184,-122.454884,San Francisco,Food:Diner
+erik-schwartz,borders-palo-alto-palo-alto,2010-06-19T03:25:20,37.4476519,-122.159863,Palo Alto,Shops:Bookstore
+erik-schwartz,zibibbo-palo-alto,2010-06-19T01:40:24,37.4482,-122.161,Palo Alto,Food:Mediterranean
+erik-schwartz,zibibbo-palo-alto,2010-06-19T01:39:31,37.4482,-122.161,Palo Alto,Food:Mediterranean
+erik-schwartz,peets-coffee-tea-menlo-park,2010-06-18T16:22:31,37.4494134,-122.1863578,Menlo Park,Food:Café
+erik-schwartz,oakland-yacht-club,2010-06-17T02:40:29,37.7834687668,-122.264828682,NULL,Parks & Outdoors:Harbor / Marina
+erik-schwartz,le-boulanger-menlo-park-menlo-park,2010-05-28T19:42:17,37.4516319,-122.184778,Menlo Park,Food:Sandwiches
+erik-schwartz,apple-store-palo-alto-palo-alto,2010-05-28T18:24:13,37.4478277854,-122.159841657,Palo Alto,Shops:Technology
+erik-schwartz,peets-coffee-tea-palo-alto,2010-05-28T16:24:12,37.4380021,-122.1573361,Palo Alto,Food:Coffee Shop
+erik-schwartz,peets-coffee-tea-menlo-park,2010-05-27T14:10:03,37.4494134,-122.1863578,Menlo Park,Food:Café
+erik-schwartz,frys-electronics-palo-alto,2010-05-26T20:39:46,37.423421,-122.136624,Palo Alto,Shops:Technology
+erik-schwartz,the-pod-hotel-new-york,2009-12-08T17:07:31,40.7558559639,-73.9691877365,New York,Travel:Hotel
+erik-schwartz,fillmores-fresh-meadows,2009-12-08T03:08:14,40.736441,-73.802701,Fresh Meadows,Nightlife:Bar
+erik-schwartz,music-hall-of-williamsburg-brooklyn,2009-12-07T23:47:35,40.7193,-73.9616,Brooklyn,Nightlife:Music Venue:Rock Club
+erik-schwartz,new-york-muffins-new-york,2009-12-07T22:45:35,40.717322,-73.9583042,New York,Food:Juice Bar
+erik-schwartz,the-pod-hotel-new-york,2009-12-07T21:30:36,40.7558559639,-73.9691877365,New York,Travel:Hotel
+erik-schwartz,route-128-mbta-station-westwood,2009-12-07T17:45:13,42.2102426306,-71.1471176147,Westwood,Travel:Subway
+erik-schwartz,bard-coffee-portland,2009-12-07T13:53:39,43.6576213,-70.2549417,Portland,Food:Coffee Shop
+erik-schwartz,toys-r-us-woburn,2009-12-05T18:17:22,42.4610822,-71.1662527,Woburn,Shops:Technology
+erik-schwartz,cafe-creme-bath,2009-12-05T13:35:08,43.9126744,-69.8141271,Bath,Food:Coffee Shop
+erik-schwartz,bard-coffee-portland,2009-12-04T16:04:03,43.6576213,-70.2549417,Portland,Food:Coffee Shop
+erik-schwartz,cafe-creme-bath,2009-11-28T14:34:45,43.9126744,-69.8141271,Bath,Food:Coffee Shop
+erik-schwartz,whole-foods-market-portland,2009-11-25T19:13:56,43.6634497,-70.2594468,Portland,Shops:Food & Drink:Grocery / Supermarket
+erik-schwartz,mens-room-salon-portland,2009-11-25T18:02:08,43.6571032,-70.2562505,Portland,Shops:Salon / Barbershop
+erik-schwartz,bard-coffee-portland,2009-11-24T19:33:44,43.6576213,-70.2549417,Portland,Food:Coffee Shop
+erik-schwartz,cafe-creme-bath,2009-11-24T13:21:43,43.9126744,-69.8141271,Bath,Food:Coffee Shop
+erik-schwartz,bard-coffee-portland,2009-11-20T18:24:49,43.6576213,-70.2549417,Portland,Food:Coffee Shop
+olivier-maurel,elgi-saint-marc-paris,2010-08-19T07:19:25,48.8704073,2.3414064,Paris,Food:Café
+olivier-maurel,boulangerie-paul-saint-cloud,2010-08-21T09:41:21,48.8467424,2.213879,Saint-Cloud,Food:Bakery
+olivier-maurel,bistrot-du-forum-reims,2010-08-22T11:25:54,49.2567238,4.0334127,Reims,Nightlife:Bar
+olivier-maurel,planet-sushi-paris,2010-08-23T18:17:59,48.8653775,2.3469321,Paris,Food:Japanese
+olivier-maurel,terminal-2e-paris,2010-08-24T06:14:14,49.0030826767,2.57740974426,Paris,Travel:Airport
+olivier-maurel,hub-soma-san-francisco,2010-08-25T22:29:40,37.782718,-122.4064634,San Francisco,Home / Work / Other:Event Space
+olivier-maurel,le-magnifique-paris,2010-04-03T00:42:08,48.8646529,2.3362901,Paris,Nightlife:Nightclub / Discotheque
+olivier-maurel,mila-paris,2010-04-02T21:44:40,48.8623865,2.3402465,Paris,Food:Tapas
+olivier-maurel,escp-europe-paris,2010-04-01T17:50:17,48.8641142,2.3806994,Paris,College & Education:Trade / Tech School
+olivier-maurel,place-du-palais-royal-paris,2010-03-30T18:10:19,48.862438,2.3371467,Paris,Parks & Outdoors:Plaza / Square
+olivier-maurel,cinema-gaumont-opera-cote-capucines-paris,2010-03-28T16:18:22,48.8704318,2.3310124,Paris,Arts & Entertainment:Movie Theater:Cineplex
+olivier-maurel,curio-parlor-paris,2010-03-27T23:07:44,48.8503864,2.3508666,Paris,Nightlife:Lounge
+dennis-mykytyn,westin-kierland-resort-scottsdale,2010-09-17T16:55:59,33.6247596,-111.9329381,Scottsdale,Travel:Resort
+dennis-mykytyn,westin-kierland-resort-scottsdale,2010-09-17T16:56:13,33.6247596,-111.9329381,Scottsdale,Travel:Resort
+dennis-mykytyn,pinnacle-peak-park-scottsdale,2010-09-17T19:27:20,33.727623399,-111.859617233,Scottsdale,Parks & Outdoors:Hiking Trail
+dennis-mykytyn,the-estancia-club-scottsdale,2010-09-17T20:15:10,33.734047739,-111.871891022,Scottsdale,Parks & Outdoors:Golf Course
+dennis-mykytyn,estancia-clubhouse-scottsdale,2010-09-17T20:42:27,33.738281,-111.865498,Scottsdale,Parks & Outdoors:Golf Course
+dennis-mykytyn,brix-home,2010-09-17T21:35:36,33.619819,-111.911783,NULL,Shops:Furniture / Home
+dennis-mykytyn,brix-home,2010-09-17T21:35:54,33.619819,-111.911783,NULL,Shops:Furniture / Home
+dennis-mykytyn,apple-store-scottsdale,2010-09-18T01:15:21,33.624080684,-111.924870014,Scottsdale,Shops:Technology
+dennis-mykytyn,scottsdale-quarter-scottsdale,2010-09-18T01:15:30,33.6237191,-111.9255427,Scottsdale,Shops:Mall
+dennis-mykytyn,prime-bar-scottsdale,2010-09-18T01:44:31,33.6226876,-111.925591,Scottsdale,Food:Other - Food
+dennis-mykytyn,east-economy-parking-sky-harbor-garage-a-phoenix,2010-09-18T16:06:00,33.4359927,-111.982809,Phoenix,Travel:Other - Travel
+dennis-mykytyn,phoenix-sky-harbor-international-airport-phx-phoen,2010-09-18T16:15:17,33.4365268902,-112.002182007,Phoenix,Travel:Airport
+dennis-mykytyn,united-red-carpet-club-phoenix,2010-09-18T16:44:20,33.4372236,-112.0163461,Phoenix,Travel:Airport
+dennis-mykytyn,newark-liberty-international-airport-ewr-newark,2010-09-18T22:21:56,40.6914421065,-74.1795158386,Newark,Travel:Airport
+dennis-mykytyn,shepard-fairey-mural-new-york,2010-09-19T00:34:58,40.7241208,-73.9923905,New York,Arts & Entertainment:Art Gallery
+dennis-mykytyn,starbucks-coffee-reseda,2010-09-30T20:39:12,34.186594,-118.5537466,Reseda,Food:Coffee Shop
+dennis-mykytyn,ucla-royce-hall-los-angeles,2010-10-01T02:54:04,34.0728174811,-118.442015648,Los Angeles,Arts & Entertainment:Performing Arts:Concert Hall
+dennis-mykytyn,los-angeles-international-airport-lax-los-angeles,2010-10-01T15:00:26,33.9440007827,-118.404035568,Los Angeles,Travel:Airport
+dennis-mykytyn,aa-admirals-club-los-angeles,2010-10-01T15:16:19,33.9415531189,-118.407082558,Los Angeles,Travel:Airport
+dennis-mykytyn,aa-admirals-club-los-angeles,2010-10-01T15:16:32,33.9415531189,-118.407082558,Los Angeles,Travel:Airport
+dennis-mykytyn,aa-admirals-club-los-angeles,2010-10-01T15:16:41,33.9415531189,-118.407082558,Los Angeles,Travel:Airport
+dennis-mykytyn,las-vegas-mccarran-international-airport-las-las-v,2010-10-01T17:33:13,36.0850548192,-115.149936676,Las Vegas,Travel:Airport
+dennis-mykytyn,matador-21-lost-weekend-pearl-at-palms-resort-las-,2010-10-01T18:29:20,36.1141647633,-115.195641518,Las Vegas,Arts & Entertainment:Music Venue:Concert Hall
+dennis-mykytyn,the-palms-casino-resort-las-vegas,2010-10-02T01:34:18,36.115378,-115.195341,Las Vegas,Arts & Entertainment:Casino
+dennis-mykytyn,matador-21-lost-weekend-pearl-at-palms-resort-las-,2010-10-02T01:34:39,36.1141647633,-115.195641518,Las Vegas,Arts & Entertainment:Music Venue:Concert Hall
+dennis-mykytyn,matador-21-lost-weekend-pearl-at-palms-resort-las-,2010-10-02T22:00:46,36.1141647633,-115.195641518,Las Vegas,Arts & Entertainment:Music Venue:Concert Hall
+dennis-mykytyn,matador-21-lost-weekend-pearl-at-palms-resort-las-,2010-10-03T07:44:57,36.1141647633,-115.195641518,Las Vegas,Arts & Entertainment:Music Venue:Concert Hall
+dennis-mykytyn,matador-21-lost-weekend-pearl-at-palms-resort-las-,2010-10-03T21:23:40,36.1141647633,-115.195641518,Las Vegas,Arts & Entertainment:Music Venue:Concert Hall
+dennis-mykytyn,matador-21-lost-weekend-pearl-at-palms-resort-las-,2010-10-04T07:28:13,36.1141647633,-115.195641518,Las Vegas,Arts & Entertainment:Music Venue:Concert Hall
+dennis-mykytyn,newark-liberty-international-airport-ewr-newark,2010-10-05T04:30:00,40.6914421065,-74.1795158386,Newark,Travel:Airport
+dennis-mykytyn,holland-tunnel-new-york,2010-10-05T05:06:18,40.7271612005,-74.0204715729,New York,Travel:Highway / Traffic
+dennis-mykytyn,nyu-bobst-library-new-york,2010-10-05T19:28:38,40.729649,-73.997018,New York,College & Education:Library
+dennis-mykytyn,citibank-new-york,2010-10-05T19:30:06,40.7291269,-73.9980086,New York,Shops:Bank / Financial
+dennis-mykytyn,starbucks-new-york,2010-10-06T13:56:59,40.7272802,-73.9954092,New York,Food:Coffee Shop
+dennis-mykytyn,the-silk-building-new-york,2010-10-06T16:16:24,40.7281929,-73.9938265,New York,Home / Work / Other:Corporate / Office
+dennis-mykytyn,other-music-new-york,2010-10-06T20:29:33,40.7280353,-73.9934254,New York,Shops:Record Shop
+dennis-mykytyn,modern-capital-new-york,2010-10-06T21:50:51,40.7281929,-73.9938265,New York,Home / Work / Other:Corporate / Office
+dennis-mykytyn,webster-hall-new-york,2010-10-07T02:12:47,40.7317223004,-73.9893364906,New York,Nightlife:Nightclub / Discotheque
+dennis-mykytyn,woodway-country-club-darien,2010-10-07T20:31:15,41.1141931,-73.5008133,Darien,Parks & Outdoors:Golf Course
+dennis-mykytyn,sakura-sushi-and-thai-cuisine-new-york,2010-10-08T00:14:51,40.723897,-73.994798,New York,Food:Sushi
+dennis-mykytyn,starbucks-new-york,2010-10-08T14:12:12,40.7272802,-73.9954092,New York,Food:Coffee Shop
+dennis-mykytyn,noho-star-new-york,2010-10-08T18:32:17,40.7259,-73.9947,New York,Food:American
+dennis-mykytyn,bond-st,2010-10-08T19:12:19,40.72641,-73.991921,NULL,Food:Japanese
+dennis-mykytyn,bond-street-new-york,2010-10-08T19:19:58,40.727,-73.9944,New York,Food:Sushi
+dennis-mykytyn,the-silk-building-new-york,2010-10-08T21:13:06,40.7281929,-73.9938265,New York,Home / Work / Other:Corporate / Office
+dennis-mykytyn,manhattan-bridge-new-york,2010-10-08T23:38:54,40.7073196248,-73.9907312393,New York,Parks & Outdoors:Other - Parks & Outdoor
+dennis-mykytyn,fort-greene-park-brooklyn,2010-10-08T23:53:47,40.6907262276,-73.9749383926,Brooklyn,Parks & Outdoors:Park
+dennis-mykytyn,fort-greene-park-brooklyn,2010-10-08T23:54:22,40.6907262276,-73.9749383926,Brooklyn,Parks & Outdoors:Park
+dennis-mykytyn,cornerstone-brooklyn,2010-10-08T23:58:49,40.689389,-73.9708409,Brooklyn,Nightlife:Bar
+dennis-mykytyn,brooklyn-masonic-temple-brooklyn,2010-10-09T01:38:35,40.688,-73.9698,Brooklyn,Home / Work / Other:Event Space
+dennis-mykytyn,chrome-bags-new-york-new-york,2010-10-09T17:36:28,40.722708,-73.995688,New York,Shops:Apparel:Accessories
+dennis-mykytyn,citibank-new-york,2010-10-09T21:21:15,40.7291269,-73.9980086,New York,Shops:Bank / Financial
+dennis-mykytyn,schillers-liquor-bar-new-york,2010-10-09T23:37:28,40.719347,-73.986687,New York,Food:French
+dennis-mykytyn,bowery-ballroom-new-york,2010-10-10T01:37:16,40.720364,-73.993542,New York,Nightlife:Music Venue:Rock Club
+dennis-mykytyn,dbgb-kitchen-bar-new-york,2010-10-10T04:21:53,40.724331698,-73.9924907684,New York,Food:Burgers
+dennis-mykytyn,new-museum-new-york,2010-10-10T18:14:33,40.7224,-73.993,New York,Arts & Entertainment:Museum:Art
+dennis-mykytyn,sperone-westwater-new-york-city,2010-10-10T18:17:34,40.723144,-73.9925559,New York City,Arts & Entertainment:Art Gallery
+dennis-mykytyn,the-conan-blimp-blimpin,2010-10-10T23:14:40,40.5813166667,-74.7384333333,Blimpin,Travel:Plane / In-flight
+dennis-mykytyn,hecho-en-dumbo-new-york,2010-10-10T23:16:39,40.7265757961,-73.9918041229,New York,Food:Mexican
+dennis-mykytyn,starbucks-new-york,2010-10-11T14:48:52,40.7272802,-73.9954092,New York,Food:Coffee Shop
+dennis-mykytyn,new-york-comic-con-new-york,2010-10-11T15:24:38,40.7566199045,-74.0017604828,New York,Home / Work / Other:Convention Center
+dennis-mykytyn,pinkberry-new-york,2010-10-11T15:33:34,40.729149,-74.000622,New York,Food:Ice Cream
+dennis-mykytyn,forbidden-planet-new-york,2010-10-11T15:34:39,40.7338,-73.9907,New York,Shops:Hobbies
+dennis-mykytyn,thornwood-self-storage-center-thornwood,2010-10-11T20:27:29,41.125149,-73.78083,Thornwood,Home / Work / Other:Other - Buildings
+dennis-mykytyn,starbucks-new-york,2010-10-12T14:27:39,40.7272802,-73.9954092,New York,Food:Coffee Shop
+dennis-mykytyn,the-silk-building-new-york,2010-10-12T23:17:15,40.7281929,-73.9938265,New York,Home / Work / Other:Corporate / Office
+dennis-mykytyn,five-points-new-york,2010-10-13T00:34:39,40.7268,-73.9933,New York,Food:New American
+dennis-mykytyn,starbucks-new-york,2010-10-13T14:24:41,40.7272802,-73.9954092,New York,Food:Coffee Shop
+dennis-mykytyn,the-silk-building-new-york,2010-10-13T17:18:00,40.7281929,-73.9938265,New York,Home / Work / Other:Corporate / Office
+dennis-mykytyn,le-poisson-rouge-new-york,2010-10-14T01:51:18,40.728495,-73.999835,New York,Nightlife:Pub
+dennis-mykytyn,starbucks-new-york,2010-10-14T14:55:37,40.7272802,-73.9954092,New York,Food:Coffee Shop
+dennis-mykytyn,other-music-new-york,2010-10-14T21:23:29,40.7280353,-73.9934254,New York,Shops:Record Shop
+dennis-mykytyn,judson-memorial-church-new-york,2010-10-15T01:37:05,40.7302,-73.9984,New York,Arts & Entertainment:Performing Arts
+dennis-mykytyn,starbucks-new-york,2010-10-15T15:06:22,40.7272802,-73.9954092,New York,Food:Coffee Shop
+dennis-mykytyn,the-stanton-social-new-york,2010-10-18T00:35:08,40.7212,-73.9881,New York,Food:Tapas
+dennis-mykytyn,starbucks-new-york,2010-10-18T14:15:49,40.7272802,-73.9954092,New York,Food:Coffee Shop
+dennis-mykytyn,villarinas-chappaqua,2010-10-18T17:14:33,41.158653,-73.772407,Chappaqua,Food:Deli / Bodega
+dennis-mykytyn,thornwood-self-storage-center-thornwood,2010-10-18T18:30:01,41.125149,-73.78083,Thornwood,Home / Work / Other:Other - Buildings
+dennis-mykytyn,joe-dimaggio-west-side-highway-route-9a-new-york,2010-10-18T20:27:13,40.7711493589,-73.9944219589,New York,Travel:Highway / Traffic
+dennis-mykytyn,great-jones-cafe-new-york,2010-10-18T22:46:01,40.7267,-73.9922,New York,Food:Cajun/Creole
+dennis-mykytyn,starbucks-new-york,2010-10-19T15:39:36,40.7272802,-73.9954092,New York,Food:Coffee Shop
+dennis-mykytyn,pianos-new-york,2010-10-19T21:37:56,40.721014,-73.987792,New York,Arts & Entertainment:Music Venue:Rock Club
+dennis-mykytyn,the-living-room-new-york,2010-10-19T21:41:00,40.7208858,-73.9878534,New York,Arts & Entertainment:Music Venue:Rock Club
+dennis-mykytyn,the-whiskey-brooklyn-brooklyn,2010-10-19T23:28:56,40.7211442982,-73.9569568634,Brooklyn,Nightlife:Whisky Bar
+dennis-mykytyn,brooklyn-bowl-brooklyn,2010-10-20T00:02:11,40.7219188016,-73.9574959874,Brooklyn,Arts & Entertainment:Bowling Alley
+dennis-mykytyn,cameo-gallery-brooklyn,2010-10-20T04:04:04,40.7186398056,-73.9599716663,Brooklyn,Nightlife:Music Venue
+dennis-mykytyn,mta-bedford-ave-l-brooklyn,2010-10-20T04:05:59,40.7174037875,-73.9570856094,Brooklyn,Travel:Subway
+dennis-mykytyn,starbucks-new-york,2010-10-20T15:00:54,40.7272802,-73.9954092,New York,Food:Coffee Shop
+dennis-mykytyn,the-silk-building-new-york,2010-10-20T16:01:13,40.7281929,-73.9938265,New York,Home / Work / Other:Corporate / Office
+dennis-mykytyn,cake-shop-new-york,2010-10-20T22:43:28,40.721,-73.9879,New York,Food:Café
+dennis-mykytyn,purevolume-house-new-york,2010-10-20T23:23:33,40.724969,-73.9914275,New York,Arts & Entertainment:Music Venue:Rock Club
+dennis-mykytyn,purevolume-house-new-york,2010-10-20T23:23:49,40.724969,-73.9914275,New York,Arts & Entertainment:Music Venue:Rock Club
+dennis-mykytyn,b-bar-grill-new-york,2010-10-20T23:37:20,40.7272134,-73.9919357,New York,Nightlife:Lounge
+dennis-mykytyn,bowery-electric-new-york,2010-10-21T00:20:19,40.7257,-73.991673,New York,Nightlife:Music Venue
+dennis-mykytyn,bowery-electric-new-york,2010-10-21T01:04:53,40.7257,-73.991673,New York,Nightlife:Music Venue
+dennis-mykytyn,purevolume-house-new-york,2010-10-21T05:29:33,40.724969,-73.9914275,New York,Arts & Entertainment:Music Venue:Rock Club
+dennis-mykytyn,think-coffee-new-york,2010-10-21T15:18:04,40.728386,-73.995347,New York,Food:Coffee Shop
+dennis-mykytyn,the-silk-building-new-york,2010-10-21T16:02:03,40.7281929,-73.9938265,New York,Home / Work / Other:Corporate / Office
+dennis-mykytyn,chase-bank-new-york,2010-10-21T19:44:16,40.7298365,-73.9913431,New York,Shops:Bank / Financial
+dennis-mykytyn,chase-bank-new-york,2010-10-21T19:45:30,40.7298365,-73.9913431,New York,Shops:Bank / Financial
+dennis-mykytyn,purevolume-house-new-york,2010-10-21T23:39:03,40.724969,-73.9914275,New York,Arts & Entertainment:Music Venue:Rock Club
+dennis-mykytyn,webster-hall-new-york,2010-10-22T00:29:43,40.7317223004,-73.9893364906,New York,Nightlife:Nightclub / Discotheque
+dennis-mykytyn,the-studio-at-webster-hall-new-york,2010-10-22T01:29:19,40.7317141704,-73.9892292023,New York,Arts & Entertainment:Music Venue:Rock Club
+dennis-mykytyn,the-bowery-hotel-new-york,2010-10-22T02:34:40,40.7260147,-73.9916649,New York,Travel:Hotel
+dennis-mykytyn,stanton-public-new-york,2010-10-22T04:09:22,40.7224,-73.9921,New York,Nightlife:Bar
+dennis-mykytyn,think-coffee-new-york,2010-08-08T13:34:14,40.7254700181,-73.9924907684,New York,Food:Coffee Shop
+dennis-mykytyn,avalon-bowery-place-new-york,2010-08-08T03:14:00,40.7245187091,-73.9916807413,New York,Home / Work / Other:Home
+dennis-mykytyn,mercury-lounge-new-york,2010-08-08T00:28:12,40.722036,-73.986806,New York,Arts & Entertainment:Music Venue:Rock Club
+dennis-mykytyn,other-music-new-york,2010-08-07T21:38:27,40.7280353,-73.9934254,New York,Shops:Record Shop
+dennis-mykytyn,avalon-bowery-place-new-york,2010-08-10T03:25:03,40.7245187091,-73.9916807413,New York,Home / Work / Other:Home
+david-noel,soho-house-berlin-berlin,2010-08-14T23:06:02,52.5272989961,13.4156611562,Berlin,Travel:Other - Travel
+david-noel,picknick-berlin,2010-08-15T01:22:08,52.518454,13.382549,Berlin,Nightlife:Nightclub / Discotheque
+david-noel,kingsize-bar-berlin,2010-08-15T03:06:32,52.5254042264,13.3878707886,Berlin,Nightlife:Bar
+david-noel,st-oberholz-berlin,2010-08-16T12:53:21,52.5295448,13.4015208,Berlin,Food:Café
+david-noel,dudu-berlin,2010-08-17T11:16:21,52.5295366,13.3996459,Berlin,Food:Vietnamese
+david-noel,to-loc-berlin,2010-08-18T19:21:54,52.4980858,13.4303578,Berlin,Food:Asian
+david-noel,sofitel-am-gendarmenmarkt-berlin-berlin,2010-08-20T06:53:47,52.5148029,13.391119,Berlin,Travel:Hotel
+david-noel,st-oberholz-berlin,2010-08-20T07:37:01,52.5295448,13.4015208,Berlin,Food:Café
+david-noel,picknick-berlin,2010-08-20T23:39:31,52.518454,13.382549,Berlin,Nightlife:Nightclub / Discotheque
+david-noel,flohmarkt-am-mauerpark-berlin,2010-08-22T12:37:41,52.5412520297,13.4026014805,Berlin,Shops:Flea Market / Fair
+david-noel,good-morning-vietnam-berlin,2010-08-24T18:41:49,52.5284856,13.4092426,Berlin,Food:Vietnamese
+david-noel,i-due-forni-pizza-berlin,2010-08-26T17:27:15,52.5308284,13.4116966,Berlin,Food:Italian
+david-noel,pho-house-pho-house-berlin,2010-08-27T19:33:33,52.50464,13.46836,Berlin,Food:Asian
+david-noel,kleine-reise-berlin,2010-08-28T23:13:30,52.4986299,13.4313417,Berlin,Nightlife:Nightclub / Discotheque
+david-noel,picknick-berlin,2010-08-29T00:47:34,52.518454,13.382549,Berlin,Nightlife:Nightclub / Discotheque
+david-noel,adlon-day-spa-berlin,2010-08-31T16:48:55,52.5167125,13.3811354,Berlin,Shops:Spas / Massage
+david-noel,tempodrom-berlin,2010-08-31T18:30:34,52.5016263682,13.3812296391,Berlin,Arts & Entertainment:Music Venue:Concert Hall
+david-noel,luigi-zuckermann-berlin,2010-09-01T11:49:12,52.5285256,13.4022588,Berlin,Food:Breakfast / Brunch
+david-noel,notaufnahme-berlin,2010-09-03T16:49:01,52.5367603,13.4077426,Berlin,Shops:Salon / Barbershop
+david-noel,casa-camper-berlin-berlin,2010-09-03T18:00:01,52.526016,13.4038053,Berlin,Travel:Hotel
+david-noel,berlin-schonefeld-airport-sxf-schonefeld,2010-09-03T20:36:00,52.3884872369,13.5188269615,Schönefeld,Travel:Airport
+david-noel,the-guardian-london,2010-09-04T10:05:00,51.5346974785,-0.121943950653,London,Arts & Entertainment:Art Gallery
+david-noel,the-breakfast-club-islington-london,2010-09-04T17:26:07,51.5349724,-0.1037165,London,Food:Breakfast / Brunch
+eric-wiesen,will-geer-theatricum-botanicum-topanga,2010-07-12T01:23:43,34.111084,-118.592686,Topanga,Arts & Entertainment:Performing Arts:Theater
+eric-wiesen,casa-la-femme-new-york,2010-07-08T00:38:40,40.7341326,-74.0081269,New York,Nightlife:Lounge
+eric-wiesen,heatpocalypse-nyc-new-york,2010-07-07T16:29:33,40.7309987243,-73.9915037155,New York,Parks & Outdoors:Other - Parks & Outdoor
+eric-wiesen,rre-ventures-new-york,2010-07-07T16:29:10,40.7621,-73.9688,New York,Home / Work / Other:Corporate / Office
+eric-wiesen,heatpocalypse-nyc-new-york,2010-07-07T11:44:38,40.7309987243,-73.9915037155,New York,Parks & Outdoors:Other - Parks & Outdoor
+eric-wiesen,rre-ventures-new-york,2010-07-06T18:12:04,40.7621,-73.9688,New York,Home / Work / Other:Corporate / Office
+eric-wiesen,recipe-new-york,2010-07-05T17:50:17,40.785,-73.9773,New York,Food:New American
+eric-wiesen,rre-ventures-new-york,2010-07-02T18:17:46,40.7621,-73.9688,New York,Home / Work / Other:Corporate / Office
+eric-wiesen,the-mercer-kitchen-new-york,2010-06-30T16:30:40,40.7248,-73.999,New York,Food:American
+eric-wiesen,sitaras-fitness-new-york,2010-06-30T12:01:23,40.7611087,-73.968004,New York,Home / Work / Other:Gym / Fitness
+eric-wiesen,moma-museum-of-modern-art-new-york,2010-06-27T14:30:18,40.7613658922,-73.9775562286,New York,Arts & Entertainment:Art Gallery
+eric-wiesen,craftbar-new-york,2010-06-20T00:37:54,40.7390023388,-73.989803195,New York,Food:New American
+eric-wiesen,five-points-new-york,2010-05-29T16:55:57,40.7268,-73.9933,New York,Food:New American
+eric-wiesen,coops-place-new-orleans,2010-05-24T01:44:10,29.96,-90.0599,New Orleans,Food:Cajun/Creole
+eric-wiesen,emerils-new-orleans,2010-05-23T01:34:45,29.944794,-90.067472,New Orleans,Nightlife:Bar
+eric-wiesen,k-pauls-louisiana-kitchen-new-orleans,2010-05-22T17:09:43,29.95521,-90.065759,New Orleans,Food:French
+eric-wiesen,vaughans-lounge-new-orleans,2010-05-21T01:21:53,29.9618104,-90.033535,New Orleans,Nightlife:Bar
+eric-wiesen,cochon-new-orleans,2010-05-20T23:30:31,29.9424058,-90.0674278,New Orleans,Food:Southern / Soul
+eric-wiesen,amc-loews-lincoln-square-13-new-york,2010-05-09T22:36:35,40.7756993179,-73.9818906784,New York,Arts & Entertainment:Movie Theater:Cineplex
+eric-wiesen,citi-field-flushing,2010-05-07T22:25:15,40.7564573647,-73.8461279869,Flushing,Arts & Entertainment:Stadium:Baseball
+eric-wiesen,brooklyn-bridge-park-brooklyn,2010-05-01T20:24:43,40.7010406488,-73.9973187447,Brooklyn,Parks & Outdoors:Park
+eric-wiesen,harvard-club-new-york,2010-04-29T17:34:28,40.7556,-73.9814,New York,College & Education:Other - College & Education
+eric-wiesen,brooklyn-botanic-garden-brooklyn,2010-04-24T14:15:00,40.6678791444,-73.9627504349,Brooklyn,Parks & Outdoors:Garden
+eric-wiesen,sarabeths-west-new-york,2010-04-18T13:10:13,40.783874,-73.977416,New York,Food:Breakfast / Brunch
+eric-wiesen,town-hall-new-york,2010-04-13T00:06:50,40.7559901,-73.9847116,New York,Arts & Entertainment:Music Venue:Concert Hall
+eric-wiesen,nob-hill-grille-san-francisco,2010-03-24T02:45:44,37.789861,-122.417461,San Francisco,Food:American
+eric-wiesen,casa-wiesen,2010-03-21T19:16:44,37.977116,-122.497371,NULL,Home / Work / Other:Home
+eric-wiesen,sams-anchor-cafe-tiburon,2010-03-20T22:50:00,37.8735227,-122.4557968,Tiburon,Food:Café
+eric-wiesen,flight-667,2010-03-16T19:39:14,30.211843,-97.656541,NULL,Travel:Plane / In-flight
+eric-wiesen,wr-hambrecht-new-york,2010-03-08T15:54:55,40.753938,-73.976376,New York,Home / Work / Other:Corporate / Office
+eric-wiesen,rosa-mexicano-new-york,2010-02-24T01:40:05,40.7711525,-73.9833659,New York,Food:Mexican
+eric-wiesen,riverside-park-new-york,2010-02-21T19:04:17,40.7988056,-73.9736377,New York,Parks & Outdoors:Skate Park / Spot
+eric-wiesen,riverside-park-new-york,2010-02-20T17:02:01,40.7988056,-73.9736377,New York,Parks & Outdoors:Skate Park / Spot
+eric-wiesen,staples-746-new-york,2010-02-19T23:30:30,40.7848676,-73.9790622,New York,Shops:Paper / Office
+eric-wiesen,columbia-business-school-new-york,2010-02-08T13:59:10,40.809635,-73.961334,New York,College & Education:Academic Building
+eric-wiesen,the-dumbo-loft-brooklyn,2010-01-26T00:38:05,40.7031,-73.988,Brooklyn,Home / Work / Other:Convention Center:Meeting Room
+eric-wiesen,brooklyn-flea-market-brooklyn,2010-01-23T19:17:27,40.6851019,-73.9778713,Brooklyn,Shops:Flea Market / Fair
+eric-wiesen,92ytribeca-new-york,2010-01-21T01:00:58,40.722912,-74.007606,New York,Arts & Entertainment:Other - Entertainment
+eric-wiesen,zabars-new-york,2010-01-10T18:20:03,40.7848789,-73.9793568,New York,Shops:Food & Drink
+eric-wiesen,rre-ventures-new-york,2010-01-04T13:25:12,40.7621,-73.9688,New York,Home / Work / Other:Corporate / Office
+eric-wiesen,gotts-roadside-st-helena,2009-12-28T22:50:15,38.501312,-122.465179,St. Helena,Food:Burgers
+eric-wiesen,ad-hoc-restaurant-yountville,2009-12-28T05:12:17,38.399351,-122.358179,Yountville,Food:American
+eric-wiesen,amc-loews-metreon-16-san-francisco,2009-12-26T20:38:41,37.7845032391,-122.403488159,San Francisco,Shops:Mall
+eric-wiesen,little-owl-new-york,2009-12-18T18:30:49,40.7323,-74.0052,New York,Food:French
+eric-wiesen,zabars-new-york,2009-12-13T00:12:34,40.7848789,-73.9793568,New York,Shops:Food & Drink
+eric-wiesen,cafe-condesa-new-york,2009-11-28T21:51:23,40.7343056,-74.0026952,New York,Food:American
+eric-wiesen,tom-and-jerrys-288-new-york,2009-11-27T22:05:33,40.724614,-73.993143,New York,Nightlife:Dive Bar
+eric-wiesen,barbao-new-york,2009-11-26T01:55:12,40.7839,-73.9741,New York,Food:Vietnamese
+geoff-jones,geoffs-house-cambridge,2010-08-10T18:28:19,52.2163550319,0.135819017887,Cambridge,Home / Work / Other:Home
+geoff-jones,cambridge-railway-station-cambridge,2010-08-12T12:09:03,52.1942975808,0.137157440186,Cambridge,Travel:Train Station
+geoff-jones,downham-market-railway-station,2010-08-12T13:35:07,52.6041308024,0.365684330463,NULL,Travel:Train Station:Train
+geoff-jones,tesco-downham-market,2010-08-12T13:37:12,52.601366378,0.376946926117,Downham Market,Shops:Department Store
+geoff-jones,sallyinnorfolk-gayton,2010-08-12T14:57:07,52.7429561892,0.551955699921,Gayton,Home / Work / Other:Home
+geoff-jones,kings-lynn-railway-station,2010-08-12T17:32:57,52.753733,0.403255,NULL,Travel:Train Station:Train
+geoff-jones,the-tivoli,2010-08-12T18:53:23,52.2137995651,0.123789310455,NULL,Nightlife:Pub
+geoff-jones,geoffs-house-cambridge,2010-08-13T20:18:53,52.2163550319,0.135819017887,Cambridge,Home / Work / Other:Home
+geoff-jones,cotswold,2010-08-14T13:38:47,52.207818,0.119245,NULL,Shops:Sports & Outdoors
+geoff-jones,costa-coffee-cambridge,2010-08-14T14:21:24,52.2065086921,0.120514333248,Cambridge,Food:Coffee Shop
+geoff-jones,rohan,2010-08-14T15:00:55,52.206284,0.118164,NULL,Shops:Apparel
+geoff-jones,milton-country-park-milton,2010-08-15T15:12:34,52.2370513595,0.159430503845,Milton,Parks & Outdoors:Other - Parks & Outdoor
+geoff-jones,the-tivoli,2010-08-16T12:24:38,52.2137995651,0.123789310455,NULL,Nightlife:Pub
+geoff-jones,cambridge-railway-station-cambridge,2010-08-17T10:47:21,52.1942975808,0.137157440186,Cambridge,Travel:Train Station
+geoff-jones,starbucks-london,2010-08-17T12:19:53,51.492936,-0.140817,London,Food:Coffee Shop
+geoff-jones,london-kings-cross-railway-station-london,2010-08-17T12:49:48,51.5303993667,-0.123724937439,London,Travel:Light Rail
+geoff-jones,sallyinnorfolk-gayton,2010-08-17T22:21:11,52.7429561892,0.551955699921,Gayton,Home / Work / Other:Home
+geoff-jones,costa-coffee-kings-lynn-kings-lynn,2010-08-18T13:05:29,52.7535387506,0.397557020187,King's Lynn,Food:Coffee Shop
+geoff-jones,bradleys,2010-08-18T20:02:20,52.750776,0.394401,NULL,Food:Winery
+geoff-jones,kings-lynn-railway-station,2010-08-19T10:37:16,52.753733,0.403255,NULL,Travel:Train Station:Train
+geoff-jones,geoffs-house-cambridge,2010-08-19T12:04:45,52.2163550319,0.135819017887,Cambridge,Home / Work / Other:Home
+geoff-jones,cb2-cambridge,2010-08-19T20:22:21,52.2050424839,0.134223103523,Cambridge,Food:Other - Food
+geoff-jones,globe-wetherspoons-kings-lynn,2010-08-23T14:47:42,52.7563768,0.3939483,King's Lynn,Nightlife:Pub
+geoff-jones,sallyinnorfolk-gayton,2010-08-23T20:35:46,52.7429561892,0.551955699921,Gayton,Home / Work / Other:Home
+geoff-jones,downham-market-railway-station,2010-08-24T06:52:20,52.6041308024,0.365684330463,NULL,Travel:Train Station:Train
+geoff-jones,cb2-cambridge,2010-08-24T20:33:37,52.2050424839,0.134223103523,Cambridge,Food:Other - Food
+geoff-jones,tesco-express-cambridge,2010-08-24T21:33:34,52.2054408,0.1344964,Cambridge,Shops:Food & Drink:Grocery / Supermarket
+geoff-jones,tesco-cambridge,2010-08-25T13:05:08,52.2116585,0.1453495,Cambridge,Shops:Food & Drink
+jennifer-van-grove,hillstone-san-francisco,2010-09-26T05:13:40,37.8059186497,-122.4051404,San Francisco,Food:American
+jennifer-van-grove,il-fornaio-san-francisco,2010-09-26T17:19:47,37.8028327,-122.4020426,San Francisco,Food:Italian Restaurants
+jennifer-van-grove,pepples-organic-vegan-donuts-san-francisco,2010-09-26T18:48:18,37.7955,-122.3937,San Francisco,Food:Donuts
+jennifer-van-grove,san-francisco-caltrain-station-san-francisco,2010-09-26T19:47:20,37.7766425825,-122.394867539,San Francisco,Travel:Train Station
+jennifer-van-grove,the-bagel-bakery-san-francisco,2010-09-27T20:52:27,37.7799285,-122.3913474,San Francisco,Food:Bagels
+jennifer-van-grove,mashable-sf-san-francisco,2010-09-28T00:56:45,37.7798819,-122.3914073,San Francisco,Home / Work / Other:Corporate / Office
+jennifer-van-grove,san-francisco-international-airport-sfo-san-franci,2010-09-28T15:14:10,37.6163730619,-122.386107445,San Francisco,Travel:Airport
+jennifer-van-grove,fedex-office-san-diego,2010-09-28T22:39:16,32.9164869,-117.1206302,San Diego,Shops:Paper / Office
+jennifer-van-grove,local-habit-san-diego,2010-09-29T02:47:18,32.7475,-117.16,San Diego,Food:Pizza Places
+jennifer-van-grove,best-buy-san-diego,2010-09-30T02:06:04,32.917836307,-117.119278908,San Diego,Shops:Technology
+jennifer-van-grove,starbucks-san-clemente,2010-10-02T15:33:15,33.458671,-117.652169,San Clemente,Food:Coffee Shops
+jennifer-van-grove,gordon-biersch-brewery-restaurant-san-francisco,2010-10-02T23:46:53,37.7895736398,-122.388859391,San Francisco,Nightlife:Brewery / Microbrewery
+jennifer-van-grove,att-park-san-francisco,2010-10-03T19:17:21,37.7781428,-122.3908715,San Francisco,Arts & Entertainment:Stadium:Baseball
+jennifer-van-grove,starbucks-san-leandro,2010-10-04T00:42:55,37.7318557,-122.1397745,San Leandro,Food:Coffee Shops
+jennifer-van-grove,starbucks-san-diego,2010-10-05T18:04:56,32.9139,-117.146,San Diego,Food:Coffee Shops
+jennifer-van-grove,local-habit-san-diego,2010-10-07T02:22:06,32.7475,-117.16,San Diego,Food:Pizza Places
+jennifer-van-grove,san-diego-international-airport-san-san-diego,2010-10-07T13:10:44,32.7329961161,-117.199316025,San Diego,Travel Spots:Airports
+jennifer-van-grove,powell-st-bart-station-san-francisco,2010-10-07T16:45:22,37.7849441574,-122.407050133,San Francisco,Travel Spots:Subways
+jennifer-van-grove,san-francisco-international-airport-sfo-san-franci,2011-02-16T19:20:11,37.6163730619,-122.386107445,San Francisco,Travel:Airport
+jennifer-van-grove,san-francisco-intl-airport-bart-station-san-franci,2011-02-16T19:20:46,37.6159396384,-122.392426729,San Francisco Int'l Airport,Travel Spots:Subways
+jennifer-van-grove,san-francisco-international-airport-sfo-san-franci,2011-02-28T03:22:11,37.6163730619,-122.386107445,San Francisco,Travel:Airport
+jennifer-van-grove,palm-springs-international-airport-psp-palm-spring,2011-02-28T06:02:17,33.8232718,-116.5107592,Palm Springs,Travel Spots:Airports
+jennifer-van-grove,austin-bergstrom-international-airport-aus-austin,2011-03-11T03:35:41,30.2025587563,-97.6675987244,Austin,Travel Spots:Airports
+jennifer-van-grove,champions-restaurant-sports-bar-austin,2011-03-11T05:39:15,30.265387158,-97.740393877,Austin,Nightlife Spots:Sports Bars
+jennifer-van-grove,hilton-austin-hotel-austin,2011-03-11T06:54:35,30.2651832948,-97.7384305,Austin,Travel Spots:Hotels
+jennifer-van-grove,austin-convention-center-austin,2011-03-11T17:14:53,30.2636265077,-97.7395248413,Austin,Home / Work / Other:Convention Center
+jennifer-van-grove,foursquare-court-pepsi-max-lot-austin,2011-03-11T19:22:21,30.2645838,-97.7414455,Austin,Great Outdoors:Playgrounds
+jennifer-van-grove,apple-store-sxsw-austin,2011-03-11T23:20:52,30.268027,-97.742905,Austin,Shops:High Tech Outlets
+jennifer-van-grove,apple-store-sxsw-austin,2011-03-11T23:41:49,30.268027,-97.742905,Austin,Shops:High Tech Outlets
+jennifer-van-grove,east-side-drive-in-austin,2011-03-12T01:57:46,30.264302,-97.732304,Austin,Arts & Entertainment:Music Venues
+jennifer-van-grove,the-vegan-yacht-austin,2011-03-12T02:00:31,30.2648033669,-97.7325189114,Austin,Food:Vegetarian or Vegan Restaurants
