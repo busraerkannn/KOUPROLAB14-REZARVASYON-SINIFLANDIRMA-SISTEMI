@@ -2,7 +2,7 @@
 package rezervasyon;
 
 public class RezervasyonBilgileri {
-    public String kullanıcıId;
+    public String kullanÃ½cÃ½Id;
     public String yerId;
     public String zaman;
     public String enlem;
@@ -16,10 +16,10 @@ public class RezervasyonBilgileri {
 }
 
 class RezervasyonGrup{
-    public String kullanıcıId;
+    public String kullanÃ½cÃ½Id;
     public String kategori;
     public String altKategori;
-    public int rezervasyonSayısı;
+    public int rezervasyonSayÃ½sÃ½;
 }
 
 /*
@@ -75,7 +75,7 @@ public  class Rezervasyon {
             boolean kontrol = false;
             if (x.kategori.toUpperCase().charAt(0) < 'M') {
                     for (Node child : root.leftChildren) {
-                       //ağacın sol düğümlerinde böyle bir kategori var mı kontrol  ediliyor 
+                       //aÃ°acÃ½n sol dÃ¼Ã°Ã¼mlerinde bÃ¶yle bir kategori var mÃ½ kontrol  ediliyor 
                        if (child.etiket.equals(x.kategori)) {
                            kontrol = true;
                            if (x.altkategori != null && !x.altkategori.isEmpty()) {
@@ -85,7 +85,7 @@ public  class Rezervasyon {
                   } 
 
                  if (!kontrol) {
-                    //kategori  tanımlı değil. Yeni kategori ekleniyor.
+                    //kategori  tanÃ½mlÃ½ deÃ°il. Yeni kategori ekleniyor.
                      Node leftNode = new Node();
                      leftNode.etiket = x.kategori;
                      leftNode.parent = root;
@@ -97,7 +97,7 @@ public  class Rezervasyon {
             }
             else{
                     for (Node child : root.rightChildren) {
-                    //ağacın sol düğümlerinde böyle bşr kategori var mı kontrol  ediliyor 
+                    //aÃ°acÃ½n sol dÃ¼Ã°Ã¼mlerinde bÃ¶yle bÃ¾r kategori var mÃ½ kontrol  ediliyor 
                     if (child.etiket.equals(x.kategori)) {
                         kontrol = true;
                         if (x.altkategori != null && !x.altkategori.isEmpty()) {
@@ -108,7 +108,7 @@ public  class Rezervasyon {
                  } 
                 
                  if (!kontrol) {
-                    //kategori  tanımlı değil. Yeni kategori ekleniyor.
+                    //kategori  tanÃ½mlÃ½ deÃ°il. Yeni kategori ekleniyor.
                      Node righttNode = new Node();
                      righttNode.etiket = x.kategori;
                      righttNode.parent = root;
@@ -127,14 +127,14 @@ public  class Rezervasyon {
         
         if (altKategori.toUpperCase().charAt(0) < 'M') {
                     for (Node child : currentNode.leftChildren) {
-                       //ağacın sol düğümlerinde böyle bir kategori var mı kontrol  ediliyor 
+                       //aÃ°acÃ½n sol dÃ¼Ã°Ã¼mlerinde bÃ¶yle bir kategori var mÃ½ kontrol  ediliyor 
                        if (child.etiket.equals(altKategori)) {
                            kontrol = true;
                     }
                   } 
                 
                  if (!kontrol) {
-                    //kategori  tanımlı değil. Yeni kategori ekleniyor.
+                    //kategori  tanÃ½mlÃ½ deÃ°il. Yeni kategori ekleniyor.
                      Node leftNode = new Node();
                      leftNode.etiket = altKategori;
                      leftNode.parent = currentNode;
@@ -144,14 +144,14 @@ public  class Rezervasyon {
             }
             else{
                     for (Node child : currentNode.rightChildren) {
-                    //ağacın sol düğümlerinde böyle bşr kategori var mı kontrol  ediliyor 
+                    //aÃ°acÃ½n sol dÃ¼Ã°Ã¼mlerinde bÃ¶yle bÃ¾r kategori var mÃ½ kontrol  ediliyor 
                     if (child.etiket.equals(altKategori)) {
                         kontrol = true;
                     }
                  } 
                 
                  if (!kontrol) {
-                    //kategori  tanımlı değil. Yeni kategori ekleniyor.
+                    //kategori  tanÃ½mlÃ½ deÃ°il. Yeni kategori ekleniyor.
                      Node righttNode = new Node();
                      righttNode.etiket = altKategori;
                      righttNode.parent = currentNode;
@@ -166,7 +166,7 @@ public  class Rezervasyon {
        for(RezervasyonGrup grup : rgList){
            if(grup.altKategori!=null){
            if(grup.altKategori.equals(currentNode.etiket)  && grup.kategori.equals(currentNode.parent.etiket)){
-               rezervasyonSayilari.add(grup.rezervasyonSayısı);
+               rezervasyonSayilari.add(grup.rezervasyonSayÃ½sÃ½);
            }
            }
        }
@@ -180,7 +180,7 @@ public  class Rezervasyon {
        ArrayList<Integer> rezervasyonSayilari = new ArrayList<>();
       for(RezervasyonGrup grup : rgList){
            if(grup.kategori.equals(currentNode.etiket)){
-               rezervasyonSayilari.add(grup.rezervasyonSayısı);
+               rezervasyonSayilari.add(grup.rezervasyonSayÃ½sÃ½);
            }
        }
        Heap heap = new Heap();
@@ -228,7 +228,7 @@ public  class Rezervasyon {
         RezervasyonBilgileri x=new RezervasyonBilgileri();
             if(kategori.toUpperCase().charAt(0) < 'M'){
                 for (Node child : root.leftChildren) {
-                       //ağacın sol düğümlerinde böyle bşr kategori var mı kontrol  ediliyor 
+                       //aÃ°acÃ½n sol dÃ¼Ã°Ã¼mlerinde bÃ¶yle bÃ¾r kategori var mÃ½ kontrol  ediliyor 
                        if (child.etiket.equals(kategori)) {
                            System.out.println(kategori+" kategorisi bulundu");
                            System.out.println("1:Yeni kaegori ekleme");
@@ -237,7 +237,7 @@ public  class Rezervasyon {
                            sc.nextLine();
                            if(secim==1)
                            {
-                               System.out.println("Altına eklenecek kategorinin ismi:");
+                               System.out.println("AltÃ½na eklenecek kategorinin ismi:");
                                x.altkategori=sc.nextLine();
                                x.kategori=kategori;
                                kategoriEkle(x);
@@ -254,7 +254,7 @@ public  class Rezervasyon {
             else if(kategori.toUpperCase().charAt(0) >= 'M')
             {
                 for (Node child : root.rightChildren) {
-                       //ağacın sol düğümlerinde böyle bşr kategori var mı kontrol  ediliyor 
+                       //aÃ°acÃ½n sol dÃ¼Ã°Ã¼mlerinde bÃ¶yle bÃ¾r kategori var mÃ½ kontrol  ediliyor 
                        if (child.etiket.equals(kategori)) {
                            System.out.println(kategori+" kategorisi bulundu");
                            System.out.println("1:Yeni kaegori ekleme");
@@ -263,7 +263,7 @@ public  class Rezervasyon {
                            sc.nextLine();
                            if(secim==1)
                            {
-                               System.out.println("Altına eklenecek kategorinin ismi:");
+                               System.out.println("AltÃ½na eklenecek kategorinin ismi:");
                                x.altkategori=sc.nextLine();
                                x.kategori=kategori;
                                kategoriEkle(x);
@@ -289,30 +289,30 @@ public  class Rezervasyon {
         for (RezervasyonBilgileri x : rlist){
         if(kategori.toUpperCase().charAt(0) < 'M'){
                 for (Node child : root.leftChildren) {
-                       //ağacın sol düğümlerinde böyle bşr kategori var mı kontrol  ediliyor 
+                       //aÃ°acÃ½n sol dÃ¼Ã°Ã¼mlerinde bÃ¶yle bÃ¾r kategori var mÃ½ kontrol  ediliyor 
                        if (child.etiket.equals(kategori)) {
-                           if(x.kullanıcıId.equals(userID))
+                           if(x.kullanÃ½cÃ½Id.equals(userID))
                            {
-                               System.out.println("Aynı kullanıcı Id'si mevcuttur.İşlem iptal edilmiştir");
+                               System.out.println("AynÃ½ kullanÃ½cÃ½ Id'si mevcuttur.ÃÃ¾lem iptal edilmiÃ¾tir");
                                return;
                            }
                            else
                            {
                                System.out.println("Yer ID'sini giriniz:");
                                k1.yerId=sc.nextLine();
-                               System.out.println("Zamanı giriniz:");
+                               System.out.println("ZamanÃ½ giriniz:");
                                k1.zaman=sc.nextLine();
                                System.out.println("Enlemi giriniz:");
                                k1.enlem=sc.nextLine();
-                               System.out.println("Boylamı giriniz:");
+                               System.out.println("BoylamÃ½ giriniz:");
                                k1.boylam=sc.nextLine();
-                               System.out.println("Şehri giriniz:");
+                               System.out.println("Ãehri giriniz:");
                                k1.sehir=sc.nextLine();
                                k1.kategori=kategori;
                                k2.kategori=kategori;
-                               k1.kullanıcıId=userID;
-                               k2.kullanıcıId=userID;
-                               k2.rezervasyonSayısı=1;
+                               k1.kullanÃ½cÃ½Id=userID;
+                               k2.kullanÃ½cÃ½Id=userID;
+                               k2.rezervasyonSayÃ½sÃ½=1;
                                rgList.add(k2);
                                kategoriEkle2(k1);
                                
@@ -322,30 +322,30 @@ public  class Rezervasyon {
         }
          if(kategori.toUpperCase().charAt(0) >= 'M'){
                 for (Node child : root.rightChildren) {
-                       //ağacın sol düğümlerinde böyle bşr kategori var mı kontrol  ediliyor 
+                       //aÃ°acÃ½n sol dÃ¼Ã°Ã¼mlerinde bÃ¶yle bÃ¾r kategori var mÃ½ kontrol  ediliyor 
                        if (child.etiket.equals(kategori)) {
-                           if(x.kullanıcıId.equals(userID))
+                           if(x.kullanÃ½cÃ½Id.equals(userID))
                            {
-                               System.out.println("Aynı kullanıcı Id'si mevcuttur.İşlem iptal edilmiştir");
+                               System.out.println("AynÃ½ kullanÃ½cÃ½ Id'si mevcuttur.ÃÃ¾lem iptal edilmiÃ¾tir");
                                return;
                            }
                            else
                            {
                                System.out.println("Yer ID'sini giriniz:");
                                k1.yerId=sc.nextLine();
-                               System.out.println("Zamanı giriniz:");
+                               System.out.println("ZamanÃ½ giriniz:");
                                k1.zaman=sc.nextLine();
                                System.out.println("Enlemi giriniz:");
                                k1.enlem=sc.nextLine();
-                               System.out.println("Boylamı giriniz:");
+                               System.out.println("BoylamÃ½ giriniz:");
                                k1.boylam=sc.nextLine();
-                               System.out.println("Şehri giriniz:");
+                               System.out.println("Ãehri giriniz:");
                                k1.sehir=sc.nextLine();
                                k1.kategori=kategori;
                                k2.kategori=kategori;
-                               k1.kullanıcıId=userID;
-                               k2.kullanıcıId=userID;
-                               k2.rezervasyonSayısı=1;
+                               k1.kullanÃ½cÃ½Id=userID;
+                               k2.kullanÃ½cÃ½Id=userID;
+                               k2.rezervasyonSayÃ½sÃ½=1;
                                rgList.add(k2);
                                kategoriEkle2(k1);
                                
@@ -359,7 +359,7 @@ public  class Rezervasyon {
             boolean kontrol = false;
             if (x.kategori.toUpperCase().charAt(0) < 'M') {
                     for (Node child : root.leftChildren) {
-                       //ağacın sol düğümlerinde böyle bşr kategori var mı kontrol  ediliyor 
+                       //aÃ°acÃ½n sol dÃ¼Ã°Ã¼mlerinde bÃ¶yle bÃ¾r kategori var mÃ½ kontrol  ediliyor 
                        if (child.etiket.equals(x.kategori)) {
                            kontrol = true;
                            if (x.altkategori != null && !x.altkategori.isEmpty()) {
@@ -371,7 +371,7 @@ public  class Rezervasyon {
                   } 
 
                  if (!kontrol) {
-                    //kategori  tanımlı değil. Yeni kategori ekleniyor.
+                    //kategori  tanÃ½mlÃ½ deÃ°il. Yeni kategori ekleniyor.
                      Node leftNode = new Node();
                      leftNode.etiket =x.kategori;
                      leftNode.parent = root;
@@ -383,7 +383,7 @@ public  class Rezervasyon {
             }
             else{
                     for (Node child : root.rightChildren) {
-                    //ağacın sol düğümlerinde böyle bşr kategori var mı kontrol  ediliyor 
+                    //aÃ°acÃ½n sol dÃ¼Ã°Ã¼mlerinde bÃ¶yle bÃ¾r kategori var mÃ½ kontrol  ediliyor 
                     if (child.etiket.equals(x.kategori)) {
                         kontrol = true;
                         if (x.altkategori != null && !x.altkategori.isEmpty()) {
@@ -393,7 +393,7 @@ public  class Rezervasyon {
                  } 
                 
                  if (!kontrol) {
-                    //kategori  tanımlı değil. Yeni kategori ekleniyor.
+                    //kategori  tanÃ½mlÃ½ deÃ°il. Yeni kategori ekleniyor.
                      Node righttNode = new Node();
                      righttNode.etiket =x.kategori;
                      righttNode.parent = root;
@@ -412,14 +412,14 @@ public  class Rezervasyon {
         
         if (altKategori.toUpperCase().charAt(0) < 'M') {
                     for (Node child : currentNode.leftChildren) {
-                       //ağacın sol düğümlerinde böyle bir kategori var mı kontrol  ediliyor 
+                       //aÃ°acÃ½n sol dÃ¼Ã°Ã¼mlerinde bÃ¶yle bir kategori var mÃ½ kontrol  ediliyor 
                        if (child.etiket.equals(altKategori)) {
                            kontrol = true;
                     }
                   } 
                 
                  if (!kontrol) {
-                    //kategori  tanımlı değil. Yeni kategori ekleniyor.
+                    //kategori  tanÃ½mlÃ½ deÃ°il. Yeni kategori ekleniyor.
                      Node leftNode = new Node();
                      leftNode.etiket = altKategori;
                      leftNode.parent = currentNode;
@@ -428,14 +428,14 @@ public  class Rezervasyon {
             }
             else{
                     for (Node child : currentNode.rightChildren) {
-                    //ağacın sol düğümlerinde böyle bşr kategori var mı kontrol  ediliyor 
+                    //aÃ°acÃ½n sol dÃ¼Ã°Ã¼mlerinde bÃ¶yle bÃ¾r kategori var mÃ½ kontrol  ediliyor 
                     if (child.etiket.equals(altKategori)) {
                         kontrol = true;
                     }
                  } 
                 
                  if (!kontrol) {
-                    //kategori  tanımlı değil. Yeni kategori ekleniyor.
+                    //kategori  tanÃ½mlÃ½ deÃ°il. Yeni kategori ekleniyor.
                      Node righttNode = new Node();
                      righttNode.etiket = altKategori;
                      righttNode.parent = currentNode;
@@ -448,10 +448,10 @@ public  class Rezervasyon {
             boolean kontrol = false;
             if (x.kategori.toUpperCase().charAt(0) < 'M') {
                     for (Node child : root.leftChildren) {
-                       //ağacın sol düğümlerinde böyle bşr kategori var mı kontrol  ediliyor 
+                       //aÃ°acÃ½n sol dÃ¼Ã°Ã¼mlerinde bÃ¶yle bÃ¾r kategori var mÃ½ kontrol  ediliyor 
                        if (child.etiket.equals(x.kategori)) {
                            kontrol = true;
-                           if(x.kullanıcıId != null && !x.kullanıcıId.isEmpty())
+                           if(x.kullanÃ½cÃ½Id != null && !x.kullanÃ½cÃ½Id.isEmpty())
                            {
                                 Node leftNode = new Node();
                                 leftNode.etiket =x.kategori;
@@ -463,7 +463,7 @@ public  class Rezervasyon {
                   } 
 
                 /* if (!isDefined) {
-                    //kategori  tanımlı değil. Yeni kategori ekleniyor.
+                    //kategori  tanÃ½mlÃ½ deÃ°il. Yeni kategori ekleniyor.
                      Node leftNode = new Node();
                      leftNode.label =x.kategori;
                      leftNode.parent = root;
@@ -475,10 +475,10 @@ public  class Rezervasyon {
             }
             else{
                     for (Node child : root.rightChildren) {
-                    //ağacın sol düğümlerinde böyle bşr kategori var mı kontrol  ediliyor 
+                    //aÃ°acÃ½n sol dÃ¼Ã°Ã¼mlerinde bÃ¶yle bÃ¾r kategori var mÃ½ kontrol  ediliyor 
                     if (child.etiket.equals(x.kategori)) {
                         kontrol = true;
-                        if(x.kullanıcıId != null && !x.kullanıcıId.isEmpty())
+                        if(x.kullanÃ½cÃ½Id != null && !x.kullanÃ½cÃ½Id.isEmpty())
                            {
                                 Node rightNode = new Node();
                                 rightNode.etiket =x.kategori;
@@ -490,7 +490,7 @@ public  class Rezervasyon {
                  } 
                 
         /*         if (!kontrol) {
-                    //kategori  tanımlı değil. Yeni kategori ekleniyor.
+                    //kategori  tanÃ½mlÃ½ deÃ°il. Yeni kategori ekleniyor.
                      Node righttNode = new Node();
                      righttNode.etiket =x.kategori;
                      righttNode.parent = root;
@@ -509,14 +509,14 @@ public  class Rezervasyon {
         
         if (altKategori.toUpperCase().charAt(0) < 'M') {
                     for (Node child : currentNode.leftChildren) {
-                       //ağacın sol düğümlerinde böyle bir kategori var mı kontrol  ediliyor 
+                       //aÃ°acÃ½n sol dÃ¼Ã°Ã¼mlerinde bÃ¶yle bir kategori var mÃ½ kontrol  ediliyor 
                        if (child.etiket.equals(altKategori)) {
                            kontrol = true;
                     }
                   } 
                 
                  if (!kontrol) {
-                    //kategori  tanımlı değil. Yeni kategori ekleniyor.
+                    //kategori  tanÃ½mlÃ½ deÃ°il. Yeni kategori ekleniyor.
                      Node leftNode = new Node();
                      leftNode.etiket = altKategori;
                      leftNode.parent = currentNode;
@@ -525,14 +525,14 @@ public  class Rezervasyon {
             }
             else{
                     for (Node child : currentNode.rightChildren) {
-                    //ağacın sol düğümlerinde böyle bşr kategori var mı kontrol  ediliyor 
+                    //aÃ°acÃ½n sol dÃ¼Ã°Ã¼mlerinde bÃ¶yle bÃ¾r kategori var mÃ½ kontrol  ediliyor 
                     if (child.etiket.equals(altKategori)) {
                         kontrol = true;
                     }
                  } 
                 
                  if (!kontrol) {
-                    //kategori  tanımlı değil. Yeni kategori ekleniyor.
+                    //kategori  tanÃ½mlÃ½ deÃ°il. Yeni kategori ekleniyor.
                      Node righttNode = new Node();
                      righttNode.etiket = altKategori;
                      righttNode.parent = currentNode;
@@ -545,7 +545,7 @@ public  class Rezervasyon {
             boolean kontrol = false;
             if (x.kategori.toUpperCase().charAt(0) < 'M') {
                     for (Node child : root.leftChildren) {
-                       //ağacın sol düğümlerinde böyle bşr kategori var mı kontrol  ediliyor 
+                       //aÃ°acÃ½n sol dÃ¼Ã°Ã¼mlerinde bÃ¶yle bÃ¾r kategori var mÃ½ kontrol  ediliyor 
                        if (child.etiket.equals(x.kategori)) {
                            kontrol = true;
                            if (x.altkategori != null && !x.altkategori.isEmpty()) {
@@ -557,7 +557,7 @@ public  class Rezervasyon {
                   } 
 
                  if (!kontrol) {
-                    //kategori  tanımlı değil. Yeni kategori ekleniyor.
+                    //kategori  tanÃ½mlÃ½ deÃ°il. Yeni kategori ekleniyor.
                      Node leftNode = new Node();
                      leftNode.etiket =x.kategori;
                      leftNode.parent = root;
@@ -569,7 +569,7 @@ public  class Rezervasyon {
             }
             else{
                     for (Node child : root.rightChildren) {
-                    //ağacın sol düğümlerinde böyle bşr kategori var mı kontrol  ediliyor 
+                    //aÃ°acÃ½n sol dÃ¼Ã°Ã¼mlerinde bÃ¶yle bÃ¾r kategori var mÃ½ kontrol  ediliyor 
                     if (child.etiket.equals(x.kategori)) {
                         kontrol = true;
                         if (x.altkategori != null && !x.altkategori.isEmpty()) {
@@ -579,7 +579,7 @@ public  class Rezervasyon {
                  } 
                 
                  if (!kontrol) {
-                    //kategori  tanımlı değil. Yeni kategori ekleniyor.
+                    //kategori  tanÃ½mlÃ½ deÃ°il. Yeni kategori ekleniyor.
                      Node righttNode = new Node();
                      righttNode.etiket =x.kategori;
                      righttNode.parent = root;
@@ -598,16 +598,16 @@ public  class Rezervasyon {
         
         if (altKategori.toUpperCase().charAt(0) < 'M') {
                     for (Node child : currentNode.leftChildren) {
-                       //ağacın sol düğümlerinde böyle bir kategori var mı kontrol  ediliyor 
+                       //aÃ°acÃ½n sol dÃ¼Ã°Ã¼mlerinde bÃ¶yle bir kategori var mÃ½ kontrol  ediliyor 
                        if (child.etiket.equals(altKategori)) {
                            kontrol = true;
-                           System.out.println("Aynı isme sahip bir kategori var.İşlem iptal edilmiştir.");
+                           System.out.println("AynÃ½ isme sahip bir kategori var.ÃÃ¾lem iptal edilmiÃ¾tir.");
                            return;
                     }
                   } 
                 
                  if (!kontrol) {
-                    //kategori  tanımlı değil. Yeni kategori ekleniyor.
+                    //kategori  tanÃ½mlÃ½ deÃ°il. Yeni kategori ekleniyor.
                      Node leftNode = new Node();
                      
                      leftNode.etiket = altKategori;
@@ -618,14 +618,14 @@ public  class Rezervasyon {
             }
             else{
                     for (Node child : currentNode.rightChildren) {
-                    //ağacın sol düğümlerinde böyle bşr kategori var mı kontrol  ediliyor 
+                    //aÃ°acÃ½n sol dÃ¼Ã°Ã¼mlerinde bÃ¶yle bÃ¾r kategori var mÃ½ kontrol  ediliyor 
                     if (child.etiket.equals(altKategori)) {
                         kontrol = true;
                     }
                  } 
                 
                  if (!kontrol) {
-                    //kategori  tanımlı değil. Yeni kategori ekleniyor.
+                    //kategori  tanÃ½mlÃ½ deÃ°il. Yeni kategori ekleniyor.
                      Node righttNode = new Node();
                      righttNode.etiket = altKategori;
                      righttNode.parent = currentNode;
@@ -648,7 +648,7 @@ public  class Rezervasyon {
                 if (satir!= null) {
                     String[] parts = satir.split(",");
                     RezervasyonBilgileri bilgi = new RezervasyonBilgileri();
-                    bilgi.kullanıcıId = parts[0];
+                    bilgi.kullanÃ½cÃ½Id = parts[0];
                     bilgi.yerId = parts[1];
                     bilgi.zaman = parts[2];
                     bilgi.enlem = parts[3];
@@ -661,9 +661,9 @@ public  class Rezervasyon {
                     rlist.add(bilgi);
                     
                     for(RezervasyonGrup grup : rgList){
-                        if (grup.altKategori.equals(bilgi.altkategori) && grup.kategori.equals(bilgi.kategori) && grup.kullanıcıId.equals(bilgi.kullanıcıId)) {
+                        if (grup.altKategori.equals(bilgi.altkategori) && grup.kategori.equals(bilgi.kategori) && grup.kullanÃ½cÃ½Id.equals(bilgi.kullanÃ½cÃ½Id)) {
                             kontrol = true;
-                            grup.rezervasyonSayısı += 1;
+                            grup.rezervasyonSayÃ½sÃ½ += 1;
                             break;
                         }
                     }
@@ -671,8 +671,8 @@ public  class Rezervasyon {
                         RezervasyonGrup yeniGrup = new RezervasyonGrup();
                         yeniGrup.kategori = bilgi.kategori;
                         yeniGrup.altKategori = bilgi.altkategori;
-                        yeniGrup.kullanıcıId = bilgi.kullanıcıId;
-                        yeniGrup.rezervasyonSayısı = 1;
+                        yeniGrup.kullanÃ½cÃ½Id = bilgi.kullanÃ½cÃ½Id;
+                        yeniGrup.rezervasyonSayÃ½sÃ½ = 1;
                         rgList.add(yeniGrup);
                     }
                     kontrol = false;
@@ -717,7 +717,7 @@ public  class Rezervasyon {
         int s=0;
         
         for (RezervasyonBilgileri x : rlist) {
-                if(x.kullanıcıId.equals(kullanici))
+                if(x.kullanÃ½cÃ½Id.equals(kullanici))
                 {
                         if(str[0]==null)
                         {
@@ -762,15 +762,15 @@ public  class Rezervasyon {
                 {
                     if(str[0]==null)
                         {
-                            System.out.println(x.kullanıcıId);
-                            str[i]=x.kullanıcıId;
+                            System.out.println(x.kullanÃ½cÃ½Id);
+                            str[i]=x.kullanÃ½cÃ½Id;
                             i++;
                         }
                         else
                         {
                            for(j=0;j<str.length;j++)
                            {
-                               if((x.kullanıcıId).equals(str[j]))
+                               if((x.kullanÃ½cÃ½Id).equals(str[j]))
                                {
                                    s=1;
                                    break;
@@ -778,8 +778,8 @@ public  class Rezervasyon {
                            }
                            if(s==0)
                            {
-                               System.out.println(x.kullanıcıId);
-                                str[i]=x.kullanıcıId;
+                               System.out.println(x.kullanÃ½cÃ½Id);
+                                str[i]=x.kullanÃ½cÃ½Id;
                                 i++;
                            }
                            s=0;
@@ -801,15 +801,15 @@ public  class Rezervasyon {
                 {
                     if(str[0]==null)
                         {
-                            System.out.println(x.kullanıcıId);
-                            str[i]=x.kullanıcıId;
+                            System.out.println(x.kullanÃ½cÃ½Id);
+                            str[i]=x.kullanÃ½cÃ½Id;
                             i++;
                         }
                         else
                         {
                            for(j=0;j<str.length;j++)
                            {
-                               if((x.kullanıcıId).equals(str[j]))
+                               if((x.kullanÃ½cÃ½Id).equals(str[j]))
                                {
                                    s=1;
                                    break;
@@ -817,8 +817,8 @@ public  class Rezervasyon {
                            }
                            if(s==0)
                            {
-                               System.out.println(x.kullanıcıId);
-                                str[i]=x.kullanıcıId;
+                               System.out.println(x.kullanÃ½cÃ½Id);
+                                str[i]=x.kullanÃ½cÃ½Id;
                                 i++;
                            }
                            s=0;
@@ -834,7 +834,7 @@ public  class Rezervasyon {
         int j=0;
         int s=0;
         for(RezervasyonBilgileri x : rlist){
-                if(x.kullanıcıId.equals(kullanici1))
+                if(x.kullanÃ½cÃ½Id.equals(kullanici1))
                 {
                     System.out.println(x.yerId +" , "+x.enlem+" , "+x.boylam+" , "+x.sehir+" , "+x.zaman);
                     
@@ -883,7 +883,7 @@ public class Heap {
             HeapTreeOlusturRecursive(rSayiArray, rootNodeList.get(0));
         }
         index = 0;      
-       //ağaç max heap e göre tekrar düzenlenmeli
+       //aÃ°aÃ§ max heap e gÃ¶re tekrar dÃ¼zenlenmeli
         return heapRoot;
     }
     
@@ -925,7 +925,7 @@ public class Heap {
             int temp;
             
             if(node.parent != null && node.rSayi > node.parent.rSayi){
-                //eklenen son yaprak sol tarafa eklenmişse ve sağ yaprak boşsa
+                //eklenen son yaprak sol tarafa eklenmiÃ¾se ve saÃ° yaprak boÃ¾sa
                 temp = node.rSayi;
                 node.rSayi = node.parent.rSayi;
                 node.parent.rSayi = temp;
@@ -962,7 +962,7 @@ public class Heap {
     }
     
     
-    public void display(String heapPrintItem){ //Bu kod kaynakçada belirtilen siteden alınmıştır.
+    public void display(String heapPrintItem){ //Bu kod kaynakÃ§ada belirtilen siteden alÃ½nmÃ½Ã¾tÃ½r.
             
          if(column == 0)                  // first item in row?
             for(int k=0; k<nBlanks; k++)  // preceding blanks
@@ -1009,44 +1009,44 @@ public class MainClass {
         boolean devam=true;
         while(devam)
         {
-            System.out.println("1:Kategori bulma işlemi");
+            System.out.println("1:Kategori bulma iÃ¾lemi");
             System.out.println("2:Yeni kategori ekleme");
             System.out.println("3:Kategori Silme");
-            System.out.println("4:Kullanıcı ekleme");
-            System.out.println("5:Kullanıcı silme");
-            System.out.println("6:Kullanıcıya göre kategori listeleme");
-            System.out.println("7:Kategoriye göre kullanıcı listeleme");
-            System.out.println("8:Rezervasyon yerine göre kullanıcı listeleme");
-            System.out.println("9:Kullanıcıya göre rezervasyon listeleme");
-            System.out.println("Seçim yapınız");
+            System.out.println("4:KullanÃ½cÃ½ ekleme");
+            System.out.println("5:KullanÃ½cÃ½ silme");
+            System.out.println("6:KullanÃ½cÃ½ya gÃ¶re kategori listeleme");
+            System.out.println("7:Kategoriye gÃ¶re kullanÃ½cÃ½ listeleme");
+            System.out.println("8:Rezervasyon yerine gÃ¶re kullanÃ½cÃ½ listeleme");
+            System.out.println("9:KullanÃ½cÃ½ya gÃ¶re rezervasyon listeleme");
+            System.out.println("SeÃ§im yapÃ½nÃ½z");
             int secim=sc.nextInt();
             sc.nextLine();
             switch(secim)
             {
                 case 1:
-                    System.out.println("Bulmak istediğiniz kategori nedir?");
+                    System.out.println("Bulmak istediÃ°iniz kategori nedir?");
                     String kategori=sc.nextLine();
                     r.search(kategori);
                     break;
                 case 2:
-                    System.out.println("Hangi kategorinin altına ekleme yapmak istiyorsunuz?");
+                    System.out.println("Hangi kategorinin altÃ½na ekleme yapmak istiyorsunuz?");
                     String kategori2=sc.nextLine();
-                    System.out.println("Eklenecek kategorinin adı nedir?");
+                    System.out.println("Eklenecek kategorinin adÃ½ nedir?");
                     String altkategori=sc.nextLine();
                     r.kategoriEkle(kategori2, altkategori);
                     break;
                 case 3:
-                    System.out.println("Başka seçim yapınız.");
+                    System.out.println("BaÃ¾ka seÃ§im yapÃ½nÃ½z.");
                     break;
                 case 4:
-                    System.out.println("Kullanıcının ekleneceği kategori nedir?");
+                    System.out.println("KullanÃ½cÃ½nÃ½n ekleneceÃ°i kategori nedir?");
                     String kategori1=sc.nextLine();
-                    System.out.println("Kullanıcının ID'si nedir?");
+                    System.out.println("KullanÃ½cÃ½nÃ½n ID'si nedir?");
                     String userID=sc.nextLine();
                     r.kullaniciEkle(kategori1,userID);
                     break;
                 case 5:
-                    System.out.println("Başka seçim yapınız.");
+                    System.out.println("BaÃ¾ka seÃ§im yapÃ½nÃ½z.");
                     break;
                 case 6:
                     String kullanici;
